@@ -1,0 +1,96 @@
+Township, Hse#, Fam#, Surname, Given Name, MI, Age, Sex, Color, DOB, Occupation, $ Estate, Birthplace
+
+Wayne, 54, 54, Cromly, Jacob, , 38, M, , 1812, Laborer, $500, PA 
+Wayne, 54, 54, Cromly, Fanny, , 30, F, , 1820, , , PA 
+Wayne, 54, 54, Cromly, Cornelius, , 11, M, , 1839, , , PA 
+Wayne, 54, 54, Cromly, Susanna, , 9, F, , 1841, , , PA 
+Wayne, 54, 54, Cromly, Sarah, E, 6, F, , 1844, , , PA 
+Wayne, 54, 54, Cromly, Erica, E, 3, F, , 1847, , , PA 
+Wayne, 54, 54, Cromly, Irwin, , 6 mo, M, , 1850, , , PA 
+Wayne, 55, 55, Chatham, Chad, , 25, M, , 1825, Laborer, , PA 
+Wayne, 55, 55, Chatham, Catharine, , 21, F, , 1829, , , PA 
+Wayne, 55, 55, Chatham, Sarah, E, 14, F, , 1836, , , PA 
+Wayne, 55, 55, Chatham, Wilson, M, 6, M, , 1844, , , PA 
+Wayne, 55, 55, Chatham, Alfred, , 4, M, , 1846, , , PA 
+Wayne, 55, 55, Chatham, Caharine, A, 3, F, , 1847, , , PA 
+Wayne, 56, 56, Sower, Michael, , 67, M, , 1783, Farmer, $3,000, PA 
+Wayne, 56, 56, Sower, Benjamin, , 65, M, , 1785, , , PA 
+Wayne, 56, 56, Sower, Elizabeth, , 64, F, , 1786, , , PA 
+Wayne, 56, 56, Sower, Washington, , 27, M, , 1823, Farmer, , PA 
+Wayne, 56, 56, Sower, Martha, , 22, F, , 1828, , , PA 
+Wayne, 56, 56, Sower, Robert, L, 5 mo, M, , 1850, , , PA 
+Wayne, 57, 57, Strayer, Daniel, , 45, M, , 1805, Farmer, $800, PA 
+Wayne, 57, 57, Strayer, Magdelane, , 40, F, , 1810, , , PA 
+Wayne, 57, 57, Strayer, George, , 20, M, , 1830, , , PA 
+Wayne, 57, 57, Strayer, Fanny, , 17, F, , 1833, , , PA 
+Wayne, 57, 57, Strayer, Elizabeth, , 15, F, , 1835, , , PA 
+Wayne, 57, 57, Strayer, Jeremiah, , 14, M, , 1836, , , PA 
+Wayne, 57, 57, Strayer, Jacob, , 12, M, , 1838, , , PA 
+Wayne, 57, 57, Strayer, Susanna, , 9, F, , 1841, , , PA 
+Wayne, 57, 57, Strayer, Rebecca, A, 7, F, , 1843, , , PA 
+Wayne, 57, 57, Strayer, Martha, T, 4, F, , 1846, , , PA 
+Wayne, 57, 57, Strayer, Daniel, , 1, M, , 1849, , , PA 
+Wayne, 58, 58, Wilson, George, , 82, M, , 1768, Super Anuated, , PA 
+Wayne, 58, 58, Wilson, Janett, , 72, F, , 1778, , , PA 
+Wayne, 58, 58, Wilson, Daniel, , 27, M, , 1823, Boot/Shoe Maker, , PA 
+Wayne, 58, 58, Ludwick, Lavina, , 14, F, , 1836, , , PA 
+Wayne, 59, 59, Simcox, Asariah, , 35, M, , 1815, Lumber Maker, $300, PA 
+Wayne, 59, 59, Simcox, Margaret, , 32, F, , 1818, , , PA 
+Wayne, 59, 59, Simcox, Joseph, , 10, M, , 1840, , , PA 
+Wayne, 60, 60, Henry, Thomas, , 38, M, , 1812, Farmer, $1,200, PA 
+Wayne, 60, 60, Henry, Elizabeth, , 30, F, , 1820, , , PA 
+Wayne, 60, 60, Henry, Margaret, A, 5, F, , 1845, , , PA 
+Wayne, 60, 60, Henry, Sarah, E, 4, F, , 1846, , , PA 
+Wayne, 61, 61, Williams, Joseph, , 25, M, , 1825, Plasterer, , PA 
+Wayne, 61, 61, Williams, Amanda, , 28, F, , 1822, , , PA 
+Wayne, 62, 62, Williams, Samuel, , 24, M, , 1826, Plasterer, , PA 
+Wayne, 62, 62, Williams, Delinda, , 21, F, , 1829, , , PA 
+Wayne, 63, 63, Dunn, William, , 52, M, , 1798, Farmer, $4,000, PA 
+Wayne, 63, 63, Dunn, Sarah, , 41, F, , 1809, , , PA 
+Wayne, 63, 63, Dunn, Lidia, , 17, F, , 1833, , , PA 
+Wayne, 63, 63, Dunn, Elizabeth, , 15, F, , 1835, , , PA 
+Wayne, 63, 63, Dunn, Almina, , 13, F, , 1837, , , PA 
+Wayne, 63, 63, Dunn, Alison, B, 11, M, , 1839, , , PA 
+Wayne, 63, 63, Dunn, Francis, A, 5, F, , 1845, , , PA 
+Wayne, 63, 63, Dunn, Josephine, , 1, F, , 1849, , , PA 
+Wayne, 64, 64, Henry, James, , 43, M, , 1807, Farmer, $2,000, PA 
+Wayne, 64, 64, Henry, Sarah, , 42, F, , 1808, , , PA 
+Wayne, 64, 64, Henry, John, H, 18, M, , 1832, , , PA 
+Wayne, 64, 64, Henry, Robert, , 16, M, , 1834, , , PA 
+Wayne, 64, 64, Henry, Margaret, E, 14, F, , 1836, , , PA 
+Wayne, 64, 64, Henry, Mary, A, 11, F, , 1839, , , PA 
+Wayne, 64, 64, Henry, Nancy, J, 9, F, , 1841, , , PA 
+Wayne, 64, 64, Henry, Thomas, S, 5, M, , 1845, , , PA 
+Wayne, 65, 65, Askins, Aaron, , 25, M, , 1825, Laborer, , NY 
+Wayne, 65, 65, Askins, Analiza, , 28, F, , 1822, , , NY 
+Wayne, 65, 65, Askins, Sarah, , 8, F, , 1842, , , NY 
+Wayne, 65, 65, Askins, Mary, J, 5, F, , 1845, , , NY 
+Wayne, 65, 65, Askins, Robert, , 3, M, , 1847, , , NY 
+Wayne, 65, 65, Askins, William, , 1, M, , 1849, Since Dead, , NY 
+Wayne, 65, 65, Askins, Mercy, A, 2 mo, F, , 1850, , , NY 
+Wayne, 66, 66, Jenkins, George, , 30, M, , 1820, Laborer, , NY 
+Wayne, 66, 66, Jenkins, Mary, , 30, F, , 1820, , , NY 
+Wayne, 66, 66, Jenkins, Sala??ein, , 3, M, , 1847, , , NY 
+Wayne, 66, 66, Jenkins, Samuel, , 1, M, , 1849, , , NY 
+Wayne, 67, 67, Hamerly, Jacob, , 55, M, , 1795, Labourer, $100, PA 
+Wayne, 67, 67, Hamerly, Mary, , 50, F, , 1800, , , PA 
+Wayne, 67, 67, Hamerly, David, , 21, M, , 1829, , , PA 
+Wayne, 67, 67, Hamerly, John, , 17, M, , 1833, , , PA 
+Wayne, 67, 67, Hamerly, Sarah, , 20, F, , 1830, , , PA 
+Wayne, 68, 68, Carns, John, , 49, M, , 1801, Stone Cutter, $1,000, PA 
+Wayne, 68, 68, Carns, Jane, W, 48, F, , 1802, , , PA 
+Wayne, 68, 68, Carns, Alice, , 19, F, , 1831, , , PA 
+Wayne, 68, 68, Carns, James, R, 17, M, , 1833, , , PA 
+Wayne, 68, 68, Carns, Thomas, , 15, M, , 1835, , , PA 
+Wayne, 68, 68, Carns, Margaret, A, 13, F, , 1837, , , PA 
+Wayne, 68, 68, Carns, Nancy, M, 13, F, , 1837, , , PA 
+Wayne, 68, 68, Carns, Henry, H, 11, M, , 1839, , , PA 
+Wayne, 68, 68, Carns, Lavina, F, 9, F, , 1841, , , PA 
+Wayne, 68, 68, Carns, John, W, 8, M, , 1842, , , PA 
+Wayne, 68, 68, Carns, Mary, E, 6, F, , 1844, , , PA 
+Wayne, 68, 68, Carns, Samuel, M, 5, M, , 1845, , , PA 
+Wayne, 68, 68, Carns, Robert, A, 2, M, , 1848, , , PA 
+Wayne, 69, 69, Bendle, Elisabeth, , 43, F, , 1807, Widow, , PA 
+Wayne, 69, 69, Bendle, William, , 22, M, , 1828, , , PA 
+Wayne, 69, 69, Bendle, Henry, , 19, M, , 1831, , , PA 
+Wayne, 69, 69, Bendle, Asaniah, , 17, M, , 1833, , , PA

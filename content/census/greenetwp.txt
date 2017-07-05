@@ -1,0 +1,987 @@
+Township, Hse#, Fam#, Surname, Given Name, MI, Age, Sex, Color, DOB, Occupation, $ Estate, Birthplace
+
+Greene, 1, 1, Strohecker, William, , 40, M, , 1810, Farmer, $4,200, PA 
+Greene, 1, 1, Strohecker, Nancy, , 33, F, , 1817, , , PA 
+Greene, 1, 1, Strohecker, Catharine, , 12, F, , 1838, , , PA 
+Greene, 1, 1, Strohecker, Louisa, , 10, F, , 1840, , , PA 
+Greene, 1, 1, Strohecker, Mary, , 7, F, , 1843, , , PA 
+Greene, 1, 1, Strohecker, Sarah, , 5, F, , 1845, , , PA 
+Greene, 1, 1, Strohecker, Daniel, , 3, M, , 1847, , , PA 
+Greene, 1, 1, Strohecker, John, , 8 mo, M, , 1850, , , PA 
+Greene, 2, 2, Schrack, David, , 36, M, , 1814, Farmer, $3,500, PA 
+Greene, 2, 2, Schrack, Mary, , 36, F, , 1814, , , PA 
+Greene, 2, 2, Schrack, Catharine, , 14, F, , 1836, , , PA 
+Greene, 2, 2, Schrack, John, , 12, M, , 1838, , , PA 
+Greene, 2, 2, Schrack, Mary, , 10, F, , 1840, , , PA 
+Greene, 2, 2, Schrack, Elizabeth, , 8, F, , 1842, , , PA 
+Greene, 2, 2, Schrack, Isabella, , 7, F, , 1843, , , PA 
+Greene, 2, 2, Schrack, Ammon, , 5, M, , 1845, Since Dead, , PA 
+Greene, 2, 2, Schrack, David, , 3, M, , 1847, , , PA 
+Greene, 3, 3, Schrack, John, , 39, M, , 1811, Farmer, , PA 
+Greene, 3, 3, Schrack, Rebecca, , 23, F, , 1827, , , PA 
+Greene, 3, 3, Schrack, Daniel, , 2, M, , 1848, , , PA 
+Greene, 4, 4, Seacrist, F, , 39, M, , 1811, Farmer, $2,500, PA 
+Greene, 4, 4, Seacrist, Sarah, , 37, F, , 1813, , , PA 
+Greene, 4, 4, Seacrist, Sarah, A, 10, F, , 1840, , , PA 
+Greene, 4, 4, Seacrist, Mary, , 8, F, , 1842, , , PA 
+Greene, 5, 5, Lamie, Daniel, , 29, M, , 1821, Farmer, $1,600, PA 
+Greene, 5, 5, Lamie, Lana, , 26, F, , 1824, , , PA 
+Greene, 5, 5, Lamie, Leah, , 1, F, , 1849, , , PA 
+Greene, 6, 6, Kahl, Peter, , 62, M, , 1788, Farmer, $4,200, PA 
+Greene, 6, 6, Kahl, Sarah, , 52, F, , 1798, , , PA 
+Greene, 6, 6, Kahl, Catharine, , 32, F, , 1818, , , PA 
+Greene, 6, 6, Kahl, Jacob, , 23, M, , 1827, Farmer, , PA 
+Greene, 6, 6, Kahl, George, , 28, M, , 1822, Farmer, , PA 
+Greene, 6, 6, Kahl, Peter, , 21, M, , 1829, , , PA 
+Greene, 6, 6, Kahl, Samuel, , 18, M, , 1832, , , PA 
+Greene, 6, 6, Kahl, Susan, , 15, F, , 1835, , , PA 
+Greene, 7, 7, Enhoff, Jacob, , 30, M, , 1820, Labourer, , PA 
+Greene, 7, 7, Enhoff, Elizabeth, , 32, F, , 1818, , , PA 
+Greene, 7, 7, Enhoff, Lucinda, , 7, F, , 1843, , , PA 
+Greene, 7, 7, Enhoff, Joseph, , 6, M, , 1844, , , PA 
+Greene, 7, 7, Enhoff, George, , 2, M, , 1848, , , PA 
+Greene, 7, 7, Enhoff, William, , 2, M, , 1848, , , PA 
+Greene, 7, 7, Lamie, John, , 21, M, , 1829, Since Dead, , PA 
+Greene, 8, 8, Jones, Laoise, , 29, M, , 1821, Farmer, $2,000, PA 
+Greene, 8, 8, Jones, Susan, , 29, F, , 1821, , , PA 
+Greene, 8, 8, Jones, Mary, , 3, F, , 1847, , , PA 
+Greene, 8, 8, Jones, Cristena, , 5 mo, F, , 1850, , , PA 
+Greene, 8, 8, Reach, Ann, M, 26, F, , 1824, , , PA 
+Greene, 8, 8, Reach, Elizabeth, , 23, F, , 1827, , , PA 
+Greene, 9, 9, Bailey, John, , 28, M, , 1822, Labourer, , PA 
+Greene, 9, 9, Bailey, Nancy, , 25, F, , 1825, , , PA 
+Greene, 9, 9, Bailey, Precilla, , 8, F, , 1842, Since Dead, , PA 
+Greene, 9, 9, Bailey, Margaret, , 4, F, , 1846, , , PA 
+Greene, 9, 9, Bailey, Amelia, , 3, F, , 1847, , , PA 
+Greene, 9, 9, Bailey, Mary, L, 3 mo, F, , 1850, , , PA 
+Greene, 10, 10, Schrock, James, , 70, M, , 1780, Super Anuated, , PA 
+Greene, 10, 10, Schrock, Sarah, , 21, F, , 1829, , , PA 
+Greene, 11, 11, Bedlein, William, , 28, M, , 1822, Labourer, , PA 
+Greene, 11, 11, Bedlein, Elizabeth, , 26, F, , 1824, , , PA 
+Greene, 11, 11, Bedlein, Susan, , 12, F, , 1838, , , PA 
+Greene, 11, 11, Bedlein, Samuel, , 5, M, , 1845, , , PA 
+Greene, 12, 12, Brobst, David, , 31, M, , 1819, Labourer, , PA 
+Greene, 12, 12, Brobst, Elizabeth, , 30, F, , 1820, , , PA 
+Greene, 12, 12, Brobst, Harriet, , 9, F, , 1841, , , PA 
+Greene, 12, 12, Brobst, Daniel, , 7, M, , 1843, , , PA 
+Greene, 12, 12, Brobst, Benjamin, , 6, M, , 1844, , , PA 
+Greene, 12, 12, Brobst, Mary, E, 3, F, , 1847, , , PA 
+Greene, 12, 12, Brobst, Alfred, , 2 mo, M, , 1850, , , PA 
+Greene, 13, 13, Rodabaugh, Peter, , 62, M, , 1788, Tailor, $200, PA 
+Greene, 13, 13, Rodabaugh, Susan, , 27, F, , 1823, , , PA 
+Greene, 13, 13, Rodabaugh, Emanuel, , 8, M, , 1842, , , PA 
+Greene, 13, 13, Rodabaugh, Joseph, , 4, M, , 1846, , , PA 
+Greene, 13, 13, Rodabaugh, Willian, , 2, M, , 1848, Since Dead, , PA 
+Greene, 14, 14, Lutz, Margaret, , 52, F, , 1798, Widow, , PA 
+Greene, 14, 14, Lutz, James, , 25, M, , 1825, , , PA 
+Greene, 14, 14, Lutz, John, , 24, M, , 1826, , , PA 
+Greene, 14, 14, Lutz, Elizabeth, , 19, F, , 1831, , , PA 
+Greene, 14, 14, Lutz, Abraham, , 17, M, , 1833, , , PA 
+Greene, 14, 14, Lutz, Hetty, , 12, F, , 1838, , , PA 
+Greene, 14, 14, Lutz, Charles, , 9, M, , 1841, , , PA 
+Greene, 15, 15, Heckman, Peter, , 30, M, , 1820, Since Dead, $3,600, PA 
+Greene, 15, 15, Heckman, Susan, , 27, F, , 1823, , , PA 
+Greene, 15, 15, Heckman, Elmina, , 3, F, , 1847, Since Dead, , PA 
+Greene, 15, 15, Heckman, Mary, , 1, F, , 1849, , , PA 
+Greene, 15, 15, Roadabaugh, Lidia, , 15, F, , 1835, , , PA 
+Greene, 16, 16, Heckman, Daniel, K, 27, M, , 1823, Farmer, $6,000, PA 
+Greene, 16, 16, Heckman, Elizabeth, , 22, F, , 1828, , , PA 
+Greene, 16, 16, Heckman, De???, , 4 mo, M, , 1850, , , PA 
+Greene, 16, 16, Morris, Thomas, , 12, M, , 1838, , , PA 
+Greene, 17, 17, Wolferd, Philip, , 46, M, , 1804, Farmer, $4,000, PA 
+Greene, 17, 17, Wolferd, Sophia, , 41, F, , 1809, , , PA 
+Greene, 17, 17, Wolferd, Jesse, , 20, M, , 1830, , , PA 
+Greene, 17, 17, Wolferd, Sarah, , 18, F, , 1832, , , PA 
+Greene, 17, 17, Wolferd, Samuel, , 16, M, , 1834, , , PA 
+Greene, 17, 17, Wolferd, Philip, , 14, M, , 1836, , , PA 
+Greene, 17, 17, Wolferd, Joseph, , 12, M, , 1838, , , PA 
+Greene, 17, 17, Wolferd, Barbary, , 10, F, , 1840, , , PA 
+Greene, 17, 17, Wolferd, George, , 8, M, , 1842, , , PA 
+Greene, 17, 17, Wolferd, Susan, , 6, F, , 1844, , , PA 
+Greene, 17, 17, Wolferd, John, , 4, M, , 1846, , , PA 
+Greene, 18, 18, Moyer, George, , 31, M, , 1819, Farmer, , PA 
+Greene, 18, 18, Moyer, Catharine, , 26, F, , 1824, , , PA 
+Greene, 18, 18, Moyer, Franklin, , 6, M, , 1844, , , PA 
+Greene, 18, 18, Moyer, Henry, , 5, M, , 1845, , , PA 
+Greene, 18, 18, Moyer, Samuel, , 3, M, , 1847, , , PA 
+Greene, 18, 18, Moyer, Ragina, , 1, F, , 1849, Since Dead, , PA 
+Greene, 18, 18, Moyer, John, , 23, M, , 1827, Since Dead, , PA 
+Greene, 19, 19, Snook, Joseph, , 45, M, , 1805, Farmer, $4,000, PA 
+Greene, 19, 19, Snook, Mary, , 42, F, , 1808, , , PA 
+Greene, 19, 19, Snook, William, , 20, M, , 1830, , , PA 
+Greene, 19, 19, Snook, Samuel, , 18, M, , 1832, , , PA 
+Greene, 19, 19, Snook, Caroline, , 16, F, , 1834, , , PA 
+Greene, 19, 19, Snook, Joseph, , 14, M, , 1836, , , PA 
+Greene, 19, 19, Snook, Rebecca, , 12, F, , 1838, , , PA 
+Greene, 19, 19, Snook, Sarah, , 10, F, , 1840, , , PA 
+Greene, 19, 19, Snook, John, , 8, M, , 1842, Since Dead, , PA 
+Greene, 19, 19, Snook, Delila, , 6, F, , 1844, , , PA 
+Greene, 19, 19, Snook, David, S, 3, M, , 1847, Since Dead, , PA 
+Greene, 20, 20, Hall, Thomas, , 48, M, , 1802, Shingle Maker, , PA 
+Greene, 20, 20, Reed, Martha, , 16, F, , 1834, , , PA 
+Greene, 20, 20, Reed, Alexander, , 8, M, , 1842, , , PA 
+Greene, 20, 20, Hall, Ellen, , 4, F, , 1846, Since Dead, , PA 
+Greene, 20, 20, Hall, Bart, , 22, M, , 1828, Labourer, , PA 
+Greene, 21, 21, Kleckner, George, , 32, M, , 1818, Farmer, , PA 
+Greene, 21, 21, Kleckner, Barbary, , 30, F, , 1820, , , PA 
+Greene, 21, 21, Kleckner, Amelia, , 8, F, , 1842, , , PA 
+Greene, 21, 21, Kleckner, Perry, D, 6, M, , 1844, , , PA 
+Greene, 22, 22, Schrock, Jesse, , 35, M, , 1815, Farmer, $3,000, PA 
+Greene, 22, 22, Schrock, Susanna, , 35, F, , 1815, , , PA 
+Greene, 22, 22, Schrock, Mary, J, 8, F, , 1842, , , PA 
+Greene, 22, 22, Schrock, Nathaniel, , 6, M, , 1844, , , PA 
+Greene, 22, 22, Schrock, William, , 4, M, , 1846, , , PA 
+Greene, 22, 22, Schrock, Rebecca, , 2, F, , 1848, , , PA 
+Greene, 22, 22, Wagner, Margaret, , 20, F, , 1830, , , PA 
+Greene, 23, 23, Stuck, Abraham, , 59, M, , 1791, Farmer, $500, PA 
+Greene, 23, 23, Stuck, Elizabeth, , 69, F, , 1781, , , PA 
+Greene, 23, 23, Stieck, Barbary, , 21, F, , 1829, , , PA Greene, 23, 23, Cremer, Ann, , 11, F, 1839, , , PA
+Greene, 23, 23, Cremer, Amelia, , 3, F, , 1847, , , PA 
+Greene, 24, 24, Tyson, Jacob, , 43, M, , 1807, Farmer, , PA 
+Greene, 24, 24, Tyson, Elizabeth, , 44, F, , 1806, , , PA 
+Greene, 24, 24, Tyson, Jacob, , 17, M, , 1833, , , PA 
+Greene, 24, 24, Tyson, William, , 14, M, , 1836, , , PA 
+Greene, 24, 24, Tyson, Benjamin, , 12, M, , 1838, , , PA 
+Greene, 24, 24, Tyson, Elizabeth, , 9, F, , 1841, , , PA 
+Greene, 24, 24, Tyson, Rebecca, , 6, F, , 1844, , , PA 
+Greene, 25, 25, Reninger, Henry, , 44, M, , 1806, Farmer, $3,000, GER 
+Greene, 25, 25, Reninger, Deborah, , 42, F, , 1808, , , GER 
+Greene, 25, 25, Reninger, David, , 20, M, , 1830, , , PA 
+Greene, 25, 25, Reninger, Charles, , 13, M, , 1837, , , PA 
+Greene, 25, 25, Reninger, Sarah, , 18, F, , 1832, , , PA 
+Greene, 25, 25, Reninger, Mary, , 17, F, , 1833, , , PA 
+Greene, 25, 25, Reninger, Amelia, , 15, F, , 1835, , , PA 
+Greene, 25, 25, Reninger, Lidia, , 11, F, , 1839, , , PA 
+Greene, 25, 25, Reninger, Rebecca, , 8, F, , 1842, , , PA 
+Greene, 25, 25, Reninger, William, , 2, F, , 1848, Since Dead, , PA 
+Greene, 25, 25, Reninger, Daniel, , 6, M, , 1844, Since Dead, , PA 
+Greene, 26, 26, Lamie, Cristena, , 24, M, , 1826, Labourer, , PA 
+Greene, 26, 26, Lamie, Catharine, , 23, F, , 1827, , , PA 
+Greene, 26, 26, Lamie, John, , 2, M, , 1848, Since Dead, , PA 
+Greene, 26, 26, Lamie, David, , 5 mo, M, , 1850, Since Dead, , PA 
+Greene, 27, 27, Lamie, John, , 46, M, , 1804, Labourer, , PA 
+Greene, 27, 27, Lamie, Elizabeth, , 45, F, , 1805, , , PA 
+Greene, 27, 27, Lamie, Michael, , 18, M, , 1832, , , PA 
+Greene, 27, 27, Lamie, Philip, , 17, M, , 1833, , , PA 
+Greene, 27, 27, Lamie, Peter, , 10, M, , 1840, , , PA 
+Greene, 27, 27, Lamie, Elizabeth, , 8, F, , 1842, , , PA 
+Greene, 27, 27, Lamie, Lidia, , 5, F, , 1845, , , PA 
+Greene, 27, 27, Lamie, Delila, , 2, F, , 1848, , , PA 
+Greene, 28, 28, Barner, Henry, , 51, M, , 1799, Farmer, $5,000, PA 
+Greene, 28, 28, Barner, Catharine, , 43, F, , 1807, , , PA 
+Greene, 28, 28, Barner, John, , 20, M, , 1830, Sawyer, , PA 
+Greene, 28, 28, Barner, Israel, , 18, M, , 1832, Farmer, , PA 
+Greene, 28, 28, Barner, Emanuel, , 16, M, , 1834, Farmer, , PA 
+Greene, 28, 28, Barner, Sarah, , 14, F, , 1836, , , PA 
+Greene, 28, 28, Barner, Jacob, , 12, M, , 1838, , , PA 
+Greene, 28, 28, Barner, Jeremiah, , 10, M, , 1840, , , PA 
+Greene, 28, 28, Barner, Rebecca, , 8, F, , 1842, , , PA 
+Greene, 28, 28, Barner, Hellen, , 6, F, , 1844, , , PA 
+Greene, 28, 28, Barner, Daniel, , 11, M, , 1839, , , PA 
+Greene, 28, 28, Barner, Catharine, , 2, F, , 1848, , , PA 
+Greene, 28, 28, Karn, Jacob, , 65, M, , 1785, Labourer, , PA 
+Greene, 28, 28, Karn, Susan, , 66, F, , 1784, , , PA 
+Greene, 29, 29, Sheeler, L, C, 32, M, , 1818, Lumber Mftr, , PA 
+Greene, 29, 29, Sheeler, Hannah, , 26, F, , 1824, , , PA 
+Greene, 29, 29, Sheeler, Alfred, , 3, M, , 1847, , , PA 
+Greene, 30, 30, Ingle, John, , 50, M, , 1800, Labourer, , PA 
+Greene, 30, 30, Ingle, Elizabeth, , 40, F, , 1810, , , PA 
+Greene, 30, 30, Ingle, Lidia, , 15, F, , 1835, , , PA 
+Greene, 30, 30, Ingle, Samuel, , 13, M, , 1837, , , PA 
+Greene, 30, 30, Ingle, Jacob, , 12, M, , 1838, , , PA 
+Greene, 30, 30, Ingle, Pheobe, , 10, F, , 1840, , , PA 
+Greene, 30, 30, Ingle, Elizabeth, , 8, F, , 1842, , , PA 
+Greene, 30, 30, Ingle, Harriett, , 6, F, , 1844, , , PA 
+Greene, 30, 30, Ingle, Catharine, , 5, F, , 1845, , , PA 
+Greene, 30, 30, Ingle, Susan, , 1, F, , 1849, , , PA 
+Greene, 31, 31, Hanly, Peter, , 23, M, , 1827, Labourer, , PA 
+Greene, 31, 31, Hanly, Lavinia, , 45, F, , 1805, , , PA 
+Greene, 31, 31, Hanly, George, , 20, M, , 1830, , , PA 
+Greene, 31, 31, Hanly, Leah, , 18, F, , 1832, , , PA 
+Greene, 31, 31, Hanly, Matilda, , 16, F, , 1834, , , PA 
+Greene, 31, 31, Hanly, Edmond, , 14, M, , 1836, , , PA 
+Greene, 31, 31, Hanly, Caty, A, 12, F, , 1838, , , PA 
+Greene, 31, 31, Hanly, Lavinia, , 10, F, , 1840, , , PA 
+Greene, 32, 32, Price, Henry, , 23, M, , 1827, Labourer, $200, PA 
+Greene, 32, 32, Price, Matilda, , 24, F, , 1826, , , PA 
+Greene, 32, 32, Price, Reuben, , 1, M, , 1849, , , PA 
+Greene, 33, 33, Reed, Valentine, , 45, M, , 1805, Labourer, , PA 
+Greene, 33, 33, Reed, Mary, , 21, F, , 1829, , , PA 
+Greene, 33, 33, Reed, Lidia, , 9 mo, F, , 1850, , , PA 
+Greene, 34, 34, Smith, John, , 41, M, , 1809, Farmer, $1,000, PA 
+Greene, 34, 34, Smith, Sarah, , 40, F, , 1810, , , PA 
+Greene, 34, 34, Smith, Stephen, , 14, M, , 1836, , , PA 
+Greene, 34, 34, Smith, Rebena, , 13, F, , 1837, , , PA 
+Greene, 34, 34, Smith, Sarah, J, 11, F, , 1839, , , PA 
+Greene, 34, 34, Smith, John, , 8, M, , 1842, , , PA 
+Greene, 34, 34, Smith, William, , 7, M, , 1843, , , PA 
+Greene, 34, 34, Smith, Malinda, , 5, F, , 1845, , , PA 
+Greene, 34, 34, Smith, Samuel, , 2, M, , 1848, , , PA 
+Greene, 34, 34, Smith, Elizabeth, , 1, F, , 1849, Since Dead, , PA 
+Greene, 35, 35, Ulrich, William, , 26, M, , 1824, Farmer, $400, PA 
+Greene, 35, 35, Ulrich, Elizabeth, , 21, F, , 1829, , , PA 
+Greene, 35, 35, Ulrich, Elizabeth, , 1, F, , 1849, Since Dead, , PA 
+Greene, 35, 35, Confer, Daniel, , 23, M, , 1827, Labourer, , PA 
+Greene, 36, 36, Bowers, Charles, , 29, M, , 1821, Farmer, $600, PA 
+Greene, 36, 36, Bowers, Lucy, , 22, F, , 1828, , , PA 
+Greene, 36, 36, Bowers, Sarah, , 6 mo, F, , 1850, , , PA 
+Greene, 37, 37, Barnes, Johnathan, , 37, M, , 1813, Farmer, $1,200, PA 
+Greene, 37, 37, Barnes, Elizabeth, , 34, F, , 1816, , , PA 
+Greene, 37, 37, Barnes, Criseann, , 15, F, , 1835, , , PA 
+Greene, 37, 37, Barnes, John, , 11, M, , 1839, , , PA 
+Greene, 37, 37, Barnes, Leah, , 6, F, , 1844, , , PA 
+Greene, 37, 37, Barnes, Mary, , 4, F, , 1846, , , PA 
+Greene, 37, 37, Barnes, Ely, , 1, M, , 1849, , , PA 
+Greene, 38, 38, Moyer, Alfred, , 36, M, , 1814, Farmer, $400, PA 
+Greene, 38, 38, Moyer, Cristena, , 40, F, , 1810, , , PA 
+Greene, 38, 38, Moyer, Susan, , 8, F, , 1842, , , PA 
+Greene, 38, 38, Moyer, Elizabeth, , 6, F, , 1844, , , PA 
+Greene, 38, 38, Moyer, Jacob, , 3, M, , 1847, , , PA 
+Greene, 38, 38, Moyer, Sarah, , 1, F, , 1849, , , PA 
+Greene, 38, 38, Moyer, Chariety, , 7, F, , 1843, Since Dead, , PA 
+Greene, 39, 39, Myers, David, , 39, M, , 1811, Farmer, $1,500, PA 
+Greene, 39, 39, Myers, Lidia, , 34, F, , 1816, , , PA 
+Greene, 39, 39, Myers, Joseph, , 12, M, , 1838, , , PA 
+Greene, 39, 39, Myers, Samuel, , 11, M, , 1839, , , PA 
+Greene, 39, 39, Myers, Michael, , 9, M, , 1841, , , PA 
+Greene, 39, 39, Myers, Barbary, , 8, F, , 1842, , , PA 
+Greene, 39, 39, Myers, Salome, , 6, F, , 1844, , , PA 
+Greene, 39, 39, Myers, Andrew, , 5, M, , 1845, , , PA 
+Greene, 39, 39, Myers, Robert, , 1, M, , 1849, , , PA 
+Greene, 39, 39, Birch, John, , 70, M, , 1780, Super Anuated, , NJ 
+Greene, 40, 40, Brown, John, , 60, M, , 1790, Farmer, $9,500, PA 
+Greene, 40, 40, Brown, Ragina, , 63, F, , 1787, , , PA 
+Greene, 40, 40, Brown, Eliza, , 40, F, , 1810, , , PA 
+Greene, 40, 40, Brown, Catharine, , 30, F, , 1820, , , PA 
+Greene, 40, 40, Brown, Henry, , 28, M, , 1822, , , PA 
+Greene, 40, 40, Brown, Samuel, , 24, M, , 1826, , , PA 
+Greene, 40, 40, Brown, Ragina, , 21, F, , 1829, , , PA 
+Greene, 40, 40, Brown, George, , 39, M, , 1811, Since Dead, , PA 
+Greene, 41, 41, Jackson, William, , 42, M, , 1808, Farmer, $2,000, HOL 
+Greene, 41, 41, Jackson, Maria, , 20, F, , 1830, , , PA 
+Greene, 41, 41, Jackson, Josephine, , 6, F, , 1844, , , PA 
+Greene, 41, 41, Jackson, Oscar, , 4, M, , 1846, , , PA 
+Greene, 41, 41, Jackson, Agness, , 2, F, , 1848, Since Dead, , PA 
+Greene, 42, 42, Breon, Thomas Valentine, , 37, M, , 1813, Labourer, , PA 
+Greene, 42, 42, Breon, Catharine, , 36, F, , 1814, , , PA 
+Greene, 42, 42, Breon, Sarah, , 15, F, , 1835, , , PA 
+Greene, 42, 42, Breon, Benjamin, , 10, M, , 1840, , , PA 
+Greene, 42, 42, Breon, Emeline, , 9, F, , 1841, , , PA 
+Greene, 42, 42, Breon, Daniel, , 8, M, , 1842, , , PA 
+Greene, 42, 42, Breon, Mary, , 5, F, , 1845, , , PA 
+Greene, 42, 42, Breon, Catharine, , 8, F, , 1842, , , PA 
+Greene, 42, 42, Breon, Ilgen, , 1, M, , 1849, , , PA 
+Greene, 43, 43, Royer, George, , 48, M, , 1802, Farmer, $1,900, PA 
+Greene, 43, 43, Royer, Mary, , 35, F, , 1815, , , PA 
+Greene, 43, 43, Royer, Harriet, , 14, F, , 1836, , , PA 
+Greene, 43, 43, Royer, David, , 13, M, , 1837, , , PA 
+Greene, 43, 43, Royer, Daniel, , 12, M, , 1838, , , PA 
+Greene, 43, 43, Royer, Mary, , 10, F, , 1840, , , PA 
+Greene, 43, 43, Royer, Adam, , 9, M, , 1841, , , PA 
+Greene, 43, 43, Royer, Susan, , 7, F, , 1843, , , PA 
+Greene, 43, 43, Royer, Aron, , 4, M, , 1846, , , PA 
+Greene, 43, 43, Royer, Emanuel, , 2, M, , 1848, , , PA 
+Greene, 44, 44, Frank, Jacob, , 51, M, , 1799, Farmer, $400, PA 
+Greene, 44, 44, Frank, Hannah, , 52, F, , 1798, , , PA 
+Greene, 44, 44, Frank, William, , 22, M, , 1828, , , PA 
+Greene, 44, 44, Frank, George, , 21, M, , 1829, , , PA 
+Greene, 44, 44, Frank, Lavina, , 18, F, , 1832, , , PA 
+Greene, 44, 44, Frank, Emanuel, , 15, M, , 1835, , , PA 
+Greene, 44, 44, Frank, Louisa, , 12, F, , 1838, , , PA 
+Greene, 44, 44, Frank, Jeremiah, , 10, M, , 1840, , , PA 
+Greene, 44, 44, Frank, Amos, , 6, M, , 1844, , , PA 
+Greene, 44, 44, Baker, John, , 56, M, , 1794, Shoe Maker, , PA 
+Greene, 45, 45, Gramly, Daniel, , 45, M, , 1805, Farmer, $3,000, PA 
+Greene, 45, 45, Gramly, Catharine, , 40, F, , 1810, , , PA 
+Greene, 45, 45, Gramly, Philip, , 21, M, , 1829, Farmer, , PA 
+Greene, 45, 45, Gramly, John, , 19, M, , 1831, , , PA 
+Greene, 45, 45, Gramly, Elizabeth, , 17, F, , 1833, , , PA 
+Greene, 45, 45, Gramly, Peter, 13, M, , 1837, , , PA 
+Greene, 45, 45, Gramly, Mary, , 12, F, , 1838, , , PA 
+Greene, 45, 45, Gramly, Caroline, , 9, F, , 1841, , , PA 
+Greene, 45, 45, Gramly, Lidia, , 7, F, , 1843, , , PA 
+Greene, 45, 45, Gramly, Rebecca, , 4, F, , 1846, , , PA 
+Greene, 45, 45, Gramly, harriet, , 1, F, , 1849, Since Dead, , PA 
+Greene, 46, 46, Snyder, Jacob, , 60, M, , 1790, Farmer, $300, PA 
+Greene, 46, 46, Snyder, Catharine, , 52, F, , 1798, , , PA 
+Greene, 46, 46, Snyder, Johnathan, , 24, M, , 1826, , , PA 
+Greene, 46, 46, Snyder, Daniel, , 22, M, , 1828, , , PA 
+Greene, 46, 46, Snyder, John, , 21, M, , 1829, , , PA 
+Greene, 46, 46, Snyder, Israel, , 17, M, , 1833, , , PA 
+Greene, 46, 46, Snyder, Harriett, , 15, F, , 1835, , , PA 
+Greene, 46, 46, Snyder, Perssavell, , 14, M, , 1836, , , PA 
+Greene, 46, 46, Snyder, Joseph, , 10, M, , 1840, , , PA 
+Greene, 46, 46, Snyder, Rebecca, , 8, F, , 1842, , , PA 
+Greene, 47, 47, Neff, George, , 40, M, , 1810, Farmer, $2,000, PA 
+Greene, 47, 47, Neff, Rebecca, , 39, F, , 1811, , , PA 
+Greene, 47, 47, Neff, Johnathan, , 19, M, , 1831, , , PA 
+Greene, 47, 47, Neff, William, , 17, M, , 1833, , , PA 
+Greene, 47, 47, Neff, Sarah, , 12, F, , 1838, , , PA 
+Greene, 47, 47, Neff, Charles, , 8, M, , 1842, , , PA 
+Greene, 47, 47, Neff, Mary, , 5, F, , 1845, , , PA 
+Greene, 47, 47, Neff, Harriett, , 3, F, , 1847, , , PA 
+Greene, 47, 47, Neff, George, , 5 mo, M, , 1850, Since Dead, , PA 
+Greene, 48, 48, Seiler, Ely, , 27, M, , 1823, Farmer, , PA 
+Greene, 48, 48, Seiler, Delila, , 26, F, , 1824, , , PA 
+Greene, 48, 48, Seiler, Rebecca, , 3, F, , 1847, , , PA 
+Greene, 48, 48, Seiler, Mary, , 16, F, , 1834, , , PA 
+Greene, 48, 48, Castrator, Dennis, , 8, M, , 1842, , , PA 
+Greene, 49, 49, Augustine, John, , 65, M, , 1785, Farmer, $300, PA 
+Greene, 49, 49, Augustine, Elizabeth, , 45, F, , 1805, , , PA 
+Greene, 49, 49, Augustine, John, , 20, M, , 1830, Since Dead, , PA 
+Greene, 49, 49, Augustine, Catharine, , 17, F, , 1833, , , PA 
+Greene, 49, 49, Augustine, Adam, , 15, M, , 1835, , , PA 
+Greene, 49, 49, Augustine, Joseph, , 10, M, , 1840, , , PA 
+Greene, 49, 49, Augustine, Aron, , 5, M, , 1845, Since Dead, , PA 
+Greene, 50, 50, Bailey, Jacob, , 33, M, , 1817, Farmer, ??, PA 
+Greene, 50, 50, Bailey, Catharine, , 33, F, , 1817, , , PA 
+Greene, 50, 50, Bailey, Mary, , 9, F, , 1841, , , PA 
+Greene, 50, 50, Bailey, Rebecca, , 7, F, , 1843, , , PA 
+Greene, 50, 50, Bailey, ????, , 5, ?, , 1845, , , PA 
+Greene, 50, 50, Bailey, Fretta, , 4 mo, F, , 1850, , , PA 
+Greene, 50, 50, Hartman, John, , 45, M, , 1805, Labourer, , PA 
+Greene, 51, 51, Bloomeord, Martin, , 43, M, , 1807, Farmer, $2,800, PA 
+Greene, 51, 51, Bloomeord, Catharine, , 32, F, , 1818, , , PA 
+Greene, 51, 51, Bloomeord, Barbary, , 11, F, , 1839, , , PA 
+Greene, 51, 51, Bloomeord, Rosanna, , 9, F, , 1841, , , PA 
+Greene, 51, 51, Bloomeord, Leander, , 7, M, , 1843, , , PA 
+Greene, 51, 51, Bloomeord, Lanei, , 7, F, , 1843, , , PA 
+Greene, 51, 51, Bloomeord, Tareska, , 1, F, , 1849, , , PA 
+Greene, 51, 51, Schull, Samuel, , 13, M, , 1837, , , PA 
+Greene, 51, 51, Kessler, Jacob, , 20, M, , 1830, ????, , PA 
+Greene, 52, 52, Zimmerman, Charles, , 26, M, , 1824, Farmer, $200, PA 
+Greene, 52, 52, Zimmerman, Susanna, , 22, F, , 1828, , , PA 
+Greene, 53, 53, Ulrich, William, , 50, M, , 1800, labourer, $800, PA 
+Greene, 53, 53, Ulrich, Eve, , 65, F, , 1785, , , PA 
+Greene, 53, 53, Ulrich, Eliza, , 19, F, , 1831, , , PA 
+Greene, 53, 53, Ulrich, Martha, , 15, F, , 1835, , , PA 
+Greene, 53, 53, Ulrich, John, , 13, M, , 1837, , , PA 
+Greene, 53, 53, Ulrich, Barbary, , 11, F, , 1839, , , PA 
+Greene, 53, 53, Ulrich, Susan, , 9, F, , 1841, , , PA 
+Greene, 53, 53, Ulrich, David, , 5, M, , 1845, , , PA 
+Greene, 53, 53, Ulrich, Adam, , 2, M, , 1848, , , PA 
+Greene, 54, 54, Douty, George, , 48, M, , 1802, Farmer, $400, PA 
+Greene, 54, 54, Douty, Mary, , 46, F, , 1804, , , PA 
+Greene, 54, 54, Douty, Elizabeth, , 21, F, , 1829, , , PA 
+Greene, 54, 54, Douty, Ruben, , 19, M, , 1831, , , PA 
+Greene, 54, 54, Douty, Ellis, , 14, M, , 1836, , , PA 
+Greene, 54, 54, Douty, Mary, , 12, F, , 1838, , , PA 
+Greene, 54, 54, Douty, William, , 10, M, , 1840, , , PA 
+Greene, 54, 54, Douty, Harriet, , 8, F, , 1842, , , PA 
+Greene, 54, 54, Douty, Lucy, , 6, F, , 1844, , , PA 
+Greene, 54, 54, Douty, Hiram, , 4, M, , 1846, , , PA 
+Greene, 55, 55, Confer, George, , 22, M, , 1828, Labourer, , PA 
+Greene, 55, 55, Confer, Sarah, , 22, F, , 1828, , , PA 
+Greene, 56, 56, Herring, Henry, , 63, M, , 1787, Shoe Maker, , PA 
+Greene, 56, 56, Herring, Margaret, , 54, F, , 1796, , , PA 
+Greene, 57, 57, Shaffer, Daniel, , 26, M, , 1824, Lumber Mftr., $2,000, PA 
+Greene, 57, 57, Shaffer, Harriet, , 24, F, , 1826, , , PA 
+Greene, 57, 57, Shaffer, James, , 2, M, , 1848, , , PA 
+Greene, 57, 57, Shaffer, Peter, , 1, M, , 1849, , , PA 
+Greene, 57, 57, Confer, Sarah, , 15, F, , 1835, , , PA 
+Greene, 57, 57, Hawk, Aron, , 18, M, , 1832, , , PA 
+Greene, 58, 58, Gramley, George, , 34, M, , 1816, Farmer, $550, PA 
+Greene, 58, 58, Gramley, Mary, , 34, F, , 1816, , , PA 
+Greene, 58, 58, Gramley, William, , 10, M, , 1840, , , PA 
+Greene, 58, 58, Gramley, Mary, , ?, F, , 1850, , , PA 
+Greene, 58, 58, Gramley, Sarah, , ?, F, , 1850, , , PA 
+Greene, 59, 59, Gramly, Francis, , 56, M, , 1794, Farmer, $4,500, PA 
+Greene, 59, 59, Gramly, Mary, , 54, F, , 1796, , , PA 
+Greene, 59, 59, Gramly, Rebecca, , 18, F, , 1832, , , PA 
+Greene, 59, 59, Rhine, William, , 14, M, , 1836, , , PA 
+Greene, 60, 60, Batchel, Isaac, , 60, M, , 1790, Farmer, $900, PA 
+Greene, 60, 60, Culby, Catharine, , 58, F, , 1792, Since Dead, , PA 
+Greene, 60, 60, Culby, Elvina, , 18, F, , 1832, , , PA 
+Greene, 60, 60, Rhine, Sarah, , 17, F, , 1833, Since Dead, , PA 
+Greene, 60, 60, Batchel, Isaac, , 24, M, , 1826, Labourer, , PA 
+Greene, 60, 60, Batchel, Bradly, , 26, M, , 1824, , , PA 
+Greene, 61, 61, Womeldorf, Peter, , 28, M, , 1822, Farmer, , PA 
+Greene, 61, 61, Womeldorf, Catharine, , 28, F, , 1822, , , PA 
+Greene, 61, 61, Womeldorf, Joseph, , 4, M, , 1846, , , PA 
+Greene, 61, 61, Womeldorf, Savilla, , 2, F, , 1848, , , PA 
+Greene, 61, 61, Freidly, Amy, , 15, F, , 1835, , , PA 
+Greene, 62, 62, Roads, Henry, , 55, M, , 1795, Farmer, , PA 
+Greene, 62, 62, Roads, Catharine, , 49, F, , 1801, , , PA 
+Greene, 62, 62, Roads, Mary, , 20, F, , 1830, , , PA 
+Greene, 62, 62, Roads, Sarah, , 18, F, , 1832, , , PA 
+Greene, 62, 62, Roads, Levy, , 16, M, , 1834, , , PA 
+Greene, 62, 62, Roads, John, , 12, M, , 1838, , , PA 
+Greene, 62, 62, Roads, Simon, , 9, M, , 1841, , , PA 
+Greene, 62, 62, Roads, Michael, , 7, M, , 1843, , , PA 
+Greene, 62, 62, Roads, Nathaniel, , 5, M, , 1845, , , PA 
+Greene, 63, 63, Crock, Reuben, , 28, M, , 1822, Carpenter, , PA 
+Greene, 63, 63, Crock, Elizabeth, , 22, F, , 1828, , , PA 
+Greene, 64, 64, Rhine, Benjamin, , 35, M, , 1815, Laborer, , PA 
+Greene, 64, 64, Rhine, Hannah, , 25, F, , 1825, , , PA 
+Greene, 64, 64, Rhine, Henry, , 6, M, , 1844, , , PA 
+Greene, 64, 64, Rhine, Catty, A, 3, F, , 1847, , , PA 
+Greene, 64, 64, Rhine, Mary, , 1, F, , 1849, , , PA 
+Greene, 65, 65, Snook, George, , 38, M, , 1812, Farmer, $3,000, PA 
+Greene, 65, 65, Snook, Sarah, , 29, F, , 1821, , , PA 
+Greene, 65, 65, Snook, John, , 7, M, , 1843, , , PA 
+Greene, 65, 65, Snook, Thomas, , 6, M, , 1844, , , PA 
+Greene, 65, 65, Snook, Jared, , 4, M, , 1846, , , PA 
+Greene, 65, 65, Snook, Amelia, , 1, F, , 1849, , , PA 
+Greene, 66, 66, Stover, Frederick, , 42, M, , 1808, Farmer, , PA 
+Greene, 66, 66, Stover, Rebecca, , 38, F, , 1812, , , PA 
+Greene, 66, 66, Stover, Johnathan, , 16, M, , 1834, , , PA 
+Greene, 66, 66, Stover, George, , 14, M, , 1836, , , PA 
+Greene, 66, 66, Stover, Samuel, , 12, M, , 1838, , , PA 
+Greene, 66, 66, Stover, Henry, , 6, M, , 1844, , , PA 
+Greene, 66, 66, Stover, Daniel, , 4, M, , 1846, , , PA 
+Greene, 66, 66, Stover, William, , 4 mo, M, , 1850, , , PA 
+Greene, 66, 66, Castrator, Barbary, , 15, F, , 1835, , , PA 
+Greene, 67, 67, McKibben, Catharine, , 68, F, , 1782, Widow, , PA 
+Greene, 67, 67, McKibben, Catharine, , 33, F, , 1817, , , PA 
+Greene, 67, 67, Garmo, Mithias, , 62, M, , 1788, Laborer, , PA 
+Greene, 67, 67, Garmo, Crestina, , 43, F, , 1807, , , PA 
+Greene, 67, 67, Hall, George, , 20, M, , 1830, , , PA 
+Greene, 67, 67, Emchigec, William, , 15, M, , 1835, , , PA 
+Greene, 68, 68, Berry, W, R, 48, M, , 1802, Farmer, $950, PA 
+Greene, 68, 68, Berry, Ester, , 47, F, , 1803, , , PA 
+Greene, 68, 68, Berry, Jefferson, , 19, M, , 1831, , , PA 
+Greene, 68, 68, Berry, Precilla, , 17, F, , 1833, , , PA 
+Greene, 68, 68, Berry, Lewis, , 15, M, , 1835, , , PA 
+Greene, 68, 68, Berry, Aquilla, , 11, M, , 1839, , , PA 
+Greene, 68, 68, Berry, Sarah, , 8, F, , 1842, , , PA 
+Greene, 68, 68, Berry, Catharine, , 4, F, , 1846, , , PA 
+Greene, 68, 68, Berry, Delila, , 2, F, , 1848, Since Dead, , PA 
+Greene, 69, 69, Aron, Jacob, , 34, M, , 1816, Farmer, $1,000, PA 
+Greene, 69, 69, Aron, Susan, , 24, F, , 1826, , , PA 
+Greene, 69, 69, Aron, John, , 6, M, , 1844, , , PA 
+Greene, 69, 69, Aron, David, , 3, M, , 1847, , , PA 
+Greene, 70, 70, Aron, Cristian, , 26, M, , 1824, Farmer, $1,000, PA 
+Greene, 70, 70, Aron, Mary, , 25, F, , 1825, , , PA 
+Greene, 70, 70, Aron, Rebecca, , 5, F, , 1845, , , PA 
+Greene, 70, 70, Aron, Sarah, , 3, F, , 1847, , , PA 
+Greene, 70, 70, Aron, William, , 1, M, , 1849, , , PA 
+Greene, 71, 71, Miller, Peter, , 72, M, , 1778, Cooper, , PA 
+Greene, 71, 71, Miller, Susan, , 37, F, , 1813, , , PA 
+Greene, 72, 72, Kastrator, Jacob, , 44, M, , 1806, Farmer, $3,700, PA 
+Greene, 72, 72, Kastrator, Mary, , 40, F, , 1810, , , PA 
+Greene, 72, 72, Kastrator, Joel, , 24, M, , 1826, , , PA 
+Greene, 72, 72, Kastrator, Mary, , 23, F, , 1827, , , PA 
+Greene, 72, 72, Kastrator, Thomas, , 11, M, , 1839, , , PA 
+Greene, 72, 72, Kastrator, Hannah, , 9, F, , 1841, , , PA 
+Greene, 72, 72, Kastrator, Jared, , 7, M, , 1843, , , PA 
+Greene, 72, 72, Kastrator, Sarah, , 21, F, , 1829, , , PA 
+Greene, 73, 73, Bloomcord, William, , 30, M, , 1820, Farmer, , PA 
+Greene, 73, 73, Bloomcord, Cristina, , 30, F, , 1820, , , PA 
+Greene, 73, 73, Bloomcord, Hannah, , 7, F, , 1843, , , PA 
+Greene, 73, 73, Bloomcord, Barbary, , 9, F, , 1841, , , PA 
+Greene, 73, 73, Bloomcord, Cornelius, , 6, M, , 1844, , , PA 
+Greene, 73, 73, Bloomcord, Jonas, , 3, M, , 1847, , , PA 
+Greene, 74, 74, Bloomcord, George, , 44, M, , 1806, Farmer, $3,500, PA 
+Greene, 74, 74, Bloomcord, Susanna, , 40, F, , 1810, , , PA 
+Greene, 74, 74, Bloomcord, Barbary, , 17, F, , 1833, , , PA 
+Greene, 74, 74, Bloomcord, Harriet, , 14, F, , 1836, , , PA 
+Greene, 74, 74, Bloomcord, Lidia, , 12, F, , 1838, , , PA 
+Greene, 74, 74, Bloomcord, Elizabeth, , 10, F, , 1840, , , PA 
+Greene, 74, 74, Bloomcord, Sarah, , 8, F, , 1842, , , PA 
+Greene, 74, 74, Bloomcord, Daniel, , 6, M, , 1844, , , PA 
+Greene, 74, 74, Bloomcord, Ellen, , 4, F, , 1846, , , PA 
+Greene, 74, 74, Bloomcord, Aron, , 2, M, , 1848, , , PA 
+Greene, 75, 75, Inglehard, George, , 45, M, , 1805, Farmer, $2,500, PA 
+Greene, 75, 75, Inglehard, Sarah, , 39, F, , 1811, , , PA 
+Greene, 75, 75, Inglehard, Daniel, , 19, M, , 1831, , , PA 
+Greene, 75, 75, Inglehard, Susan, , 16, F, , 1834, , , PA 
+Greene, 75, 75, Inglehard, Sarah, , 12, F, , 1838, , , PA 
+Greene, 75, 75, Inglehard, Henry, , 2, M, , 1848, Since Dead, , PA 
+Greene, 76, 76, Price, John, , 28, M, , 1822, Farmer, $3,000, PA 
+Greene, 76, 76, Price, Susan, , 28, F, , 1822, , , PA 
+Greene, 76, 76, Price, Amanda, , 3, F, , 1847, , , PA 
+Greene, 77, 77, Price, Henry, , 51, M, , 1799, Laborer, , PA 
+Greene, 77, 77, Price, Barbary, , 44, F, , 1806, , , PA 
+Greene, 78, 78, Troutner, George, , 55, M, , 1795, Farmer, $2,000, PA 
+Greene, 78, 78, Troutner, Eve, , 59, F, , 1791, , , PA 
+Greene, 78, 78, Troutner, Donigal, , 27, M, , 1823, , , PA 
+Greene, 78, 78, Troutner, George, , 22, M, , 1828, , , PA 
+Greene, 79, 79, Bloomcord, Henry, , 25, M, , 1825, Farmer, $3,500, PA 
+Greene, 79, 79, Bloomcord, Elizabeth, , 25, F, , 1825, , , PA Greene, 79, 79, Brumgard, David, , 1, M, , 1849, , , PA
+Greene, 80, 80, Summerman, William, H, 33, M, , 1817, Hotel Keeper, $1,500, PA 
+Greene, 80, 80, Summerman, Sevilla, , 24, F, , 1826, , , PA 
+Greene, 80, 80, Summerman, David, , 2, M, , 1848, , , PA 
+Greene, 80, 80, Watt, F, M, 24, M, , 1826, , , PA 
+Greene, 80, 80, Blint, Jacob, , 23, M, , 1827, Tailor, , GER 
+Greene, 80, 80, Achenbach, William, , 18, M, , 1832, , , PA 
+Greene, 81, 81, Moyer, Johnathan, , 33, M, , 1817, Phisician, $1,100, PA 
+Greene, 81, 81, Moyer, Elizabeth, , 33, F, , 1817, , , PA 
+Greene, 81, 81, Moyer, Mary, , 13, F, , 1837, , , PA 
+Greene, 81, 81, Moyer, Emma, , 10, F, , 1840, , , PA 
+Greene, 81, 81, Moyer, Mifflin, , 8, M, , 1842, , , PA 
+Greene, 81, 81, Moyer, William, , 6, M, , 1844, , , PA 
+Greene, 81, 81, Moyer, George, , 4, M, , 1846, , , PA 
+Greene, 81, 81, Moyer, Sarah, , 2, F, , 1848, , , PA 
+Greene, 82, 83, Trump, Samuel, , 35, M, , 1815, Sadler, $300, PA 
+Greene, 82, 83, Trump, Sarah, , 37, F, , 1813, , , PA 
+Greene, 82, 83, Trump, Sarah, , 12, F, , 1838, , , PA 
+Greene, 82, 83, Trump, Susanna, , 11, F, , 1839, , , PA 
+Greene, 82, 83, Trump, Elizabeth, , 9, F, , 1841, , , PA 
+Greene, 82, 83, Trump, Samuel, , 4, M, , 1846, , , PA 
+Greene, 82, 83, Trump, Franklin, , 2, M, , 1848, , , PA 
+Greene, 82, 83, Agle, George, , 18, M, , 1832, Apprentice, , PA 
+Greene, 83, 83, Conser, John, G, 68, M, , 1782, Cooper, , PA 
+Greene, 83, 83, Conser, Elizabeth, , 73, F, , 1777, , , PA 
+Greene, 83, 83, Deis, Elizabeth, , 18, F, , 1832, , , PA 
+Greene, 84, 84, Achenbach, George, A, 34, M, , 1816, Merchant, $8,000, PA 
+Greene, 84, 84, Achenbach, Catharine, , 32, F, , 1818, , , PA 
+Greene, 84, 84, Achenbach, Agness, J, 6, F, , 1844, , , PA 
+Greene, 84, 84, Achenbach, Othelia, , 1, F, , 1849, , , PA 
+Greene, 84, 84, Achenbach, Hiram R, R, 5, M, , 1845, , , PA 
+Greene, 84, 84, Achenbach, Ambrose, , 2, M, , 1848, , , PA 
+Greene, 84, 84, Bailey, Johnathan, M, 16, M, , 1834, Clerk, , PA 
+Greene, 85, 85, Conser, Levy, , 31, M, , 1819, Tailor, $2,500, PA 
+Greene, 85, 85, Conser, Barbary, , 33, F, , 1817, , , PA 
+Greene, 85, 85, Conser, Charles, W, 9, M, , 1841, , , PA 
+Greene, 85, 85, Conser, Louisa, , 8, F, , 1842, , , PA 
+Greene, 85, 85, Conser, Francis, , 6, M, , 1844, , , PA 
+Greene, 85, 85, Conser, Lucretia, , 5, F, , 1845, , , PA 
+Greene, 85, 85, Conser, Benton, , 3, M, , 1847, , , PA 
+Greene, 85, 85, Conser, Victoria, , 1, F, , 1849, , , PA 
+Greene, 85, 85, Deis, Sarah, , 20, F, , 1830, , , PA 
+Greene, 86, 86, Heckman, John, , 54, M, , 1796, Geontleman, $10,000, PA 
+Greene, 86, 86, Heckman, Catharine, , 38, F, , 1812, , , PA 
+Greene, 86, 86, Heckman, Superia, , 14, F, , 1836, , , PA 
+Greene, 86, 86, Heckman, Fietta, , 11, F, , 1839, , , PA 
+Greene, 86, 86, Heckman, Iswey, , 8, M, , 1842, , , PA 
+Greene, 87, 87, Smith, William, , 26, M, , 1824, BlackSmith, $400, PA 
+Greene, 87, 87, Smith, Amelia, , 23, F, , 1827, , , PA 
+Greene, 87, 87, Smith, Harvey, , 1, M, , 1849, , , PA 
+Greene, 88, 88, Snook, Mathias, , 76, M, , 1774, Geontleman, $15,500, PA 
+Greene, 88, 88, Snook, Mary, , 53, F, , 1797, , , PA 
+Greene, 88, 88, Snook, Cresa, , 21, F, , 1829, , , PA 
+Greene, 89, 89, Breon, George, , 24, M, , 1826, Carpenter, $250, PA 
+Greene, 89, 89, Breon, Eliza, , 25, F, , 1825, , , PA 
+Greene, 89, 89, Breon, Jane, , 2, F, , 1848, Since Dead, , PA 
+Greene, 89, 89, Breon, Rebecca, , 4 mo, F, , 1850, , , PA 
+Greene, 90, 90, Kastrator, Daniel, , 32, M, , 1818, BlackSmith, $350, PA 
+Greene, 90, 90, Kastrator, Lena, , 31, F, , 1819, , , PA 
+Greene, 90, 90, Kastrator, Susan, , 10, F, , 1840, , , PA 
+Greene, 90, 90, Kastrator, Cornelius, , 8, M, , 1842, , , PA 
+Greene, 90, 90, Kastrator, Henry, , 3, M, , 1847, , , PA 
+Greene, 91, 91, Gearhart, David, , 45, M, , 1805, Pauper, , PA 
+Greene, 91, 91, Gearhart, Catharine, , 40, F, , 1810, , , PA 
+Greene, 91, 91, Gearhart, Susanna, , 17, F, , 1833, , , PA 
+Greene, 92, 92, Ettinger, Daniel, , 44, M, , 1806, Tanner, $2,000, PA 
+Greene, 92, 92, Ettinger, Catharine, , 49, F, , 1801, , , PA 
+Greene, 92, 92, Berry, Thomas, J, 19, M, , 1831, Apprentice, , PA 
+Greene, 92, 92, Bloomcord, Sarah, , 7, F, , 1843, , , PA 
+Greene, 92, 92, Bloomcord, Aron, , 1, M, , 1849, , , PA 
+Greene, 93, 93, Willson, John, , 40, M, , 1810, Shoe Maker, , PA 
+Greene, 93, 93, Willson, Amelia, , 35, F, , 1815, , , PA 
+Greene, 93, 93, Willson, George, , 14, M, , 1836, , , PA 
+Greene, 93, 93, Willson, Jacob, , 12, M, , 1838, , , PA 
+Greene, 93, 93, Willson, Rahah, , 7, M, , 1843, , , PA 
+Greene, 93, 93, Willson, John, , 5, M, , 1845, , , PA 
+Greene, 93, 93, Willson, Isabella, , 3, F, , 1847, , , PA 
+Greene, 93, 93, Willson, Martha, , 1, F, , 1849, Since Dead, , PA 
+Greene, 94, 94, Herron, Daniel, , 22, M, , 1828, Wagon Maker, , PA 
+Greene, 94, 94, Herron, Rebecca, , 18, F, , 1832, , , PA 
+Greene, 95, 95, Hoover, Rebecca, , 42, F, , 1808, Widow, $400, PA 
+Greene, 96, 96, Pettet, Paul, , 36, M, , 1814, Labourer, $200, PA 
+Greene, 96, 96, Pettet, Susan, , 28, F, , 1822, , , PA 
+Greene, 96, 96, Pettet, Joseph, , 12, M, , 1838, , , PA 
+Greene, 96, 96, Pettet, Samuel, , 4 mo, M, , 1850, , , PA 
+Greene, 97, 97, Adams, W, T, 26, M, , 1824, Mill right, , PA 
+Greene, 97, 97, Adams, Mary, , 46, F, , 1804, , , PA 
+Greene, 97, 97, Adams, John, Q, 24, M, , 1826, Mill right, , PA 
+Greene, 97, 97, Adams, Jesse, , 20, M, , 1830, , , PA 
+Greene, 97, 97, Adams, Martha, , 18, F, , 1832, , , PA 
+Greene, 97, 97, Adams, Charles, , 13, M, , 1837, , , PA 
+Greene, 97, 97, Adams, George, , 10, M, , 1840, , , PA 
+Greene, 97, 97, Adams, Thomas, , 10, M, , 1840, , , PA 
+Greene, 97, 97, Adams, Ruben, , 8, M, , 1842, , , PA 
+Greene, 97, 97, Adams, Harriet, , 1, F, , 1849, , , PA 
+Greene, 97, 97, Schrock, Charlotte, , 18, F, , 1832, Apprentice, , PA 
+Greene, 98, 98, Heller, John, , 45, M, , 1805, Wagon Maker, $400, PA 
+Greene, 98, 98, Heller, Cristina, , 44, F, , 1806, , , PA 
+Greene, 98, 98, Heller, Emanuel, , 20, M, , 1830, , , PA 
+Greene, 98, 98, Heller, Lelantha, , 18, F, , 1832, , , PA 
+Greene, 98, 98, Heller, Catharine, , 15, F, , 1835, , , PA 
+Greene, 98, 98, Heller, Mary, , 13, F, , 1837, , , PA 
+Greene, 98, 98, Heller, Rebecca, , 10, F, , 1840, , , PA 
+Greene, 98, 98, Heller, John, , 8, M, , 1842, , , PA 
+Greene, 98, 98, Heller, James, , 11, M, , 1839, Since Dead, , PA 
+Greene, 99, 99, Heninger, Daniel, , 27, M, , 1823, Gun Smith, $450, PA 
+Greene, 99, 99, Heninger, Mary, , 26, F, , 1824, , , PA 
+Greene, 99, 99, Heninger, Barney, , 7, M, , 1843, , , PA 
+Greene, 99, 99, Heninger, Sarah, , 4, F, , 1846, , , PA 
+Greene, 99, 99, Heninger, William, , 1, M, , 1849, Since Dead, , PA 
+Greene, 99, 99, Renn, John, , 19, M, , 1831, Apprentice, , PA 
+Greene, 99, 99, Renn, Catharine, , 50, F, , 1800, Widow, , PA 
+Greene, 99, 99, Cooper, Marion, , 7, F, , 1843, , , PA 
+Greene, 100, 100, Klepper, John, , 32, M, , 1818, Shoe Maker, $600, PA 
+Greene, 100, 100, Klepper, Mary, , 30, F, , 1820, , , PA 
+Greene, 100, 100, Klepper, Sarah, , 7, F, , 1843, , , PA 
+Greene, 100, 100, Klepper, Agness, , 4, F, , 1846, , , PA 
+Greene, 101, 101, Hobble, Henry, , 43, M, , 1807, Mill right, , PA 
+Greene, 101, 101, Hobble, Catharine, , 34, F, , 1816, , , PA 
+Greene, 101, 101, Hobble, Margaret, , 15, F, , 1835, , , PA 
+Greene, 101, 101, Hobble, Elizabeth, , 13, F, , 1837, , , PA 
+Greene, 101, 101, Hobble, Anna, , 5, F, , 1845, , , PA 
+Greene, 101, 101, Hobble, Catharine, , 2, F, , 1848, , , PA 
+Greene (Loganville), 102, 102, Wirth, Henry, , 37, M, , 1813, Farmer, $2,000, PA 
+Greene (Loganville), 102, 102, Wirth, Sarah, , 36, F, , 1814, , , PA 
+Greene (Loganville), 102, 102, Wirth, Lucinda, , 13, F, , 1837, , , PA 
+Greene (Loganville), 102, 102, Wirth, Jane, , 11, F, , 1839, , , PA 
+Greene (Loganville), 102, 102, Wirth, Mary, , 9, F, , 1841, , , PA 
+Greene (Loganville), 102, 102, Wirth, Washington, , 7, M, , 1843, , , PA 
+Greene (Loganville), 102, 102, Wirth, George, , 4, M, , 1846, , , PA 
+Greene (Loganville), 102, 102, Wirth, Savella, , 6 mo, F, , 1850, , , PA 
+Greene (Loganville), 103, 103, Hogue, J, P, 38, M, , 1812, Merchant, $1,500, PA 
+Greene (Loganville), 103, 103, Hogue, Sarah, A, 27, F, , 1823, , , PA 
+Greene (Loganville), 103, 103, Hogue, Daniel, C, 6, M, , 1844, , , PA 
+Greene (Loganville), 103, 103, Culberson, James, , 35, M, , 1815, Lumber Mftr, $8,400, IRE 
+Greene (Loganville), 103, 103, Dise, Rebecca, , 16, F, , 1834, , , PA 
+Greene (Loganville), 103, 103, Eisenhour, William, , 14, M, , 1836, Clerk, , PA 
+Greene (Loganville), 104, 104, Eisenhour, Daniel, , 36, M, , 1814, Tailor, $400, PA 
+Greene (Loganville), 104, 104, Eisenhour, Leah, , 33, F, , 1817, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, Henry, , 12, M, , 1838, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, Margaret, , 10, F, , 1840, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, Sarah, , 8, F, , 1842, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, John, , 6, M, , 1844, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, Samuel, , 4, M, , 1846, , , PA 
+Greene (Loganville), 104, 104, Eisenhour, Daniel, , 4 mo, M, , 1850, Since Dead, , PA 
+Greene (Loganville), 104, 104, Eisenhour, William, , 20, M, , 1830, Laborer, , PA 
+Greene (Loganville), 105, 105, Kleckner, Anthony, , 56, M, , 1794, Farmer, $21,080, PA 
+Greene (Loganville), 105, 105, Kleckner, Sarah, , 56, F, , 1794, , , PA 
+Greene (Loganville), 105, 105, Kleckner, Joseph, , 25, M, , 1825, , , PA 
+Greene (Loganville), 105, 105, Kleckner, Thomas, , 18, M, , 1832, , , PA 
+Greene (Loganville), 105, 105, Kleckner, Samuel, , 16, M, , 1834, , , PA 
+Greene (Loganville), 105, 105, Sager, Maria, , 30, F, , 1820, Widow, , PA 
+Greene (Loganville), 105, 105, Castrator, Ellen, , 11, F, , 1839, , , PA 
+Greene (Loganville), 106, 106, Kleckner, John, , 28, M, , 1822, Farmer, , PA 
+Greene (Loganville), 106, 106, Kleckner, Elizabeth, , 25, F, , 1825, , , PA 
+Greene (Loganville), 106, 106, Kleckner, Mary, , 1, F, , 1849, , , PA 
+Greene (Loganville), 106, 106, Rote, Michael, , 40, M, , 1810, Laborer, , PA 
+Greene (Loganville), 107, 107, Morris, Abby, , 47, F, , 1803, Widow, $350, PA 
+Greene (Loganville), 107, 107, Morris, Daniel, , 9, M, , 1841, , , PA 
+Greene (Loganville), 108, 108, Reber, Daniel, , 38, M, , 1812, Cabinet Maker, $700, PA 
+Greene (Loganville), 108, 108, Reber, Catharine, , 35, F, , 1815, , , PA 
+Greene (Loganville), 109, 109, Castrator, Michael, , 30, M, , 1820, Carpenter, $400, PA 
+Greene (Loganville), 109, 109, Castrator, Mary, , 26, F, , 1824, , , PA 
+Greene (Loganville), 109, 109, Castrator, Iswey, , 2, M, , 1848, , , PA 
+Greene (Loganville), 110, 110, Harp, John, , 22, M, , 1828, Miller, , PA 
+Greene (Loganville), 110, 110, Harp, Sarah, , 22, F, , 1828, , , PA 
+Greene (Loganville), 111, 111, Berry, James, , 26, M, , 1824, Stone Mason, $300, PA 
+Greene (Loganville), 111, 111, Berry, Maria, C, 23, F, , 1827, , , PA 
+Greene (Loganville), 111, 111, Berry, Mersela, , 2, F, , 1848, , , PA 
+Greene (Loganville), 111, 111, Castrator, John, , 22, M, , 1828, Stone Mason, , PA 
+Greene (Loganville), 111, 111, Confer, Johnathan, , 19, M, , 1831, Apprentice, , PA 
+Greene (Loganville), 112, 112, Bitner, Ely, , 34, M, , 1816, Carpenter, $1,000, PA 
+Greene (Loganville), 112, 112, Bitner, Lucy, , 24, F, , 1826, , , PA 
+Greene (Loganville), 112, 112, Bitner, Amanda, , 6, F, , 1844, , , PA 
+Greene (Loganville), 112, 112, Bitner, Mary, , 4, F, , 1846, , , PA 
+Greene (Loganville), 112, 112, Bitner, John, , 3, M, , 1847, , , PA 
+Greene (Loganville), 112, 112, Bitner, Emeline, , 4 mo, F, , 1850, , , PA 
+Greene (Loganville), 113, 113, Zeller, Mary, , 41, F, , 1809, Widow, , PA 
+Greene (Loganville), 113, 113, Zeller, Louisa, , 25, F, , 1825, , , PA 
+Greene (Loganville), 113, 113, Bitner, John, , 27, M, , 1823, Carpenter, , PA 
+Greene (Loganville), 113, 113, McReed, Jacob, , 22, M, , 1828, Carpenter, , PA 
+Greene (Loganville), 113, 113, Smith, John, , 21, M, , 1829, Carpenter, , PA 
+Greene (Loganville), 113, 113, Snyder, John, , 23, M, , 1827, Carpenter, , PA 
+Greene (Loganville), 114, 114, Bogan, G, B, 30, M, , 1820, Merchant, , PA 
+Greene (Loganville), 114, 114, Bogan, Eliza, , 22, F, , 1828, , , PA 
+Greene (Loganville), 114, 114, Bogan, Dora, , 10 mo, F, , 1850, Since Dead, , PA 
+Greene (Loganville), 114, 114, Moats, Emanuel, , 16, M, , 1834, Clerk, , PA 
+Greene (Loganville), 115, 115, Winkelbleck, William, , 36, M, , 1814, Shoe Maker, $400, PA 
+Greene (Loganville), 115, 115, Winkelbleck, Lucy, A, 30, F, , 1820, , , PA 
+Greene (Loganville), 115, 115, Winkelbleck, Sarah, , 12, F, , 1838, , , PA 
+Greene (Loganville), 115, 115, Winkelbleck, Matilda, , 7, F, , 1843, , , PA 
+Greene (Loganville), 115, 115, Winkelbleck, Claressa, , 2, F, , 1848, , , PA 
+Greene (Loganville), 115, 115, Castrator, Israel, , 24, M, , 1826, Carpenter, , PA 
+Greene (Loganville), 115, 115, Winkelbleck, Solomon, , 28, M, , 1822, Shoe Maker, , PA 
+Greene (Loganville), 116, 116, Wren, Samuel, , 59, M, , 1791, BlackSmith, $400, PA 
+Greene (Loganville), 116, 116, Wren, Susanna, , 50, F, , 1800, , , PA 
+Greene (Loganville), 116, 116, Wren, Elizabeth, , 24, F, , 1826, , , PA 
+Greene (Loganville), 116, 116, Wren, Samuel, , 22, M, , 1828, , , PA 
+Greene (Loganville), 116, 116, Wren, Sophia, , 22, F, , 1828, , , PA 
+Greene (Loganville), 116, 116, Wren, Julia, A, 18, F, , 1832, , , PA 
+Greene (Loganville), 116, 116, Wren, Henry, , 13, M, , 1837, , , PA 
+Greene (Loganville), 117, 117, Goodman, John, , 32, M, , 1818, Stone Mason, $200, PA 
+Greene (Loganville), 117, 117, Goodman, Mary, , 23, F, , 1827, , , PA 
+Greene (Loganville), 117, 117, Goodman, Sarah, J, 2, F, , 1848, , , PA 
+Greene (Loganville), 118, 118, Hoover, Adam, , 29, M, , 1821, Tailor, $2,000, PA 
+Greene (Loganville), 118, 118, Hoover, Elizabeth, , 30, F, , 1820, , , PA 
+Greene (Loganville), 118, 118, Hoover, Lucy, , 5, F, , 1850, , , PA 
+Greene (Loganville), 118, 118, Hoover, Rebecca, , 3, F, , 1847, , , PA 
+Greene (Loganville), 118, 118, Hoover, William, , 3 mo, M, , 1850, , , PA 
+Greene (Loganville), 118, 118, Bowersock, George, , 24, M, , 1826, Tailor, , PA 
+Greene (Loganville), 118, 118, Hoover, Emanuel, , 22, M, , 1828, Tailor, , PA 
+Greene (Loganville), 118, 118, Harp, John, , 23, M, , 1827, Tailor, , PA 
+Greene (Loganville), 119, 119, Freidly, Susan, , 53, F, , 1797, Widow, $300, PA 
+Greene (Loganville), 119, 119, Freidly, Hester, , 22, F, , 1828, , , PA 
+Greene (Loganville), 119, 119, Freidly, Perry, , 18, M, , 1832, , , PA 
+Greene (Loganville), 119, 119, Freidly, Emmira, , 15, F, , 1835, , , PA 
+Greene (Loganville), 119, 119, Watson, Robert, , 1, M, , 1849, , , PA 
+Greene (Loganville), 120, 120, Ludwick, SAmuel, , 40, M, , 1810, ??? ???, , PA 
+Greene (Loganville), 120, 120, Ludwick, Elizabeth, , 34, F, , 1816, , , PA 
+Greene (Loganville), 120, 120, Ludwick, Lavinia, , 13, F, , 1837, , , PA 
+Greene (Loganville), 120, 120, Ludwick, Martha, , 10, F, , 1840, , , PA 
+Greene (Loganville), 120, 120, Ludwick, John, , 7, M, , 1843, , , PA 
+Greene (Loganville), 120, 120, Ludwick, Samuel, , 4, M, , 1846, , , PA 
+Greene (Loganville), 120, 120, Ludwick, Hanah, , 2, F, , 1848, , , PA 
+Greene (Loganville), 121, 121, Thorp, Hugh, , 25, M, , 1825, Miller, , PA 
+Greene (Loganville), 121, 121, Thorp, Mary, , 24, F, , 1826, , , PA 
+Greene (Loganville), 121, 121, Thorp, Harriet, , 4, F, , 1846, , , PA 
+Greene (Loganville), 121, 121, Thorp, Joseph, , 2, M, , 1848, , , PA 
+Greene (Loganville), 122, 122, Goodman, George, , 28, M, , 1822, Shoe Maker, $200, PA 
+Greene (Loganville), 122, 122, Goodman, Lidia, , 30, F, , 1820, , , PA 
+Greene (Loganville), 122, 122, Goodman, Jeremiah, , 6, M, , 1844, , , PA 
+Greene (Loganville), 122, 122, Goodman, Jane, , 4, F, , 1846, , , PA 
+Greene (Loganville), 122, 122, Goodman, Elizabeth, , 1, F, , 1849, , , PA 
+Greene (Loganville), 123, 123, Stamm, David, , 49, M, , 1801, Farmer, $4,500, PA 
+Greene (Loganville), 123, 123, Stamm, Elizabeth, , 48, F, , 1802, , , PA 
+Greene (Loganville), 123, 123, Stamm, Catharine, , 22, F, , 1828, , , PA 
+Greene (Loganville), 123, 123, Stamm, Elizabeth, , 20, F, , 1830, , , PA 
+Greene (Loganville), 123, 123, Stamm, Mary, , 17, F, , 1833, , , PA 
+Greene (Loganville), 123, 123, Stamm, Samuel, , 15, M, , 1835, , , PA 
+Greene (Loganville), 123, 123, Stamm, David, , 8, M, , 1842, , , PA 
+Greene (Loganville), 124, 124, Stamm, Jacob, , 25, M, , 1825, Farmer, , PA 
+Greene (Loganville), 124, 124, Stamm, Susan, , 23, F, , 1827, , , PA 
+Greene (Loganville), 125, 125, Spotts, Andrew, , 35, M, , 1815, Farmer, $500, PA 
+Greene (Loganville), 125, 125, Spotts, Catharine, , 35, F, , 1815, , , PA 
+Greene (Loganville), 126, 126, Wise, Henry, , 55, M, , 1795, Farmer, $2,500, PA 
+Greene (Loganville), 126, 126, Wise, Mary, , 46, F, , 1804, , , PA 
+Greene (Loganville), 126, 126, Wise, Matilda, , 25, F, , 1825, , , PA 
+Greene (Loganville), 126, 126, Wise, David, , 21, M, , 1829, , , PA 
+Greene (Loganville), 126, 126, Wise, John, , 20, M, , 1830, , , PA 
+Greene (Loganville), 126, 126, Wise, Adam, , 13, M, , 1837, , , PA 
+Greene (Loganville), 126, 126, Wise, Mary, , 11, F, , 1839, , , PA 
+Greene (Loganville), 126, 126, Wise, Henry, , 9, M, , 1841, , , PA 
+Greene (Loganville), 126, 126, Wise, Precilla, , 17, F, , 1833, Since Dead, , PA 
+Greene (Loganville), 127, 127, Womeldorf, John, , 38, M, , 1812, , $1,500, PA 
+Greene (Loganville), 127, 127, Womeldorf, Elizabeth, , 39, F, , 1811, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, John, , 16, M, , 1834, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Samuel, , 14, M, , 1836, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, James, , 12, M, , 1838, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Alexander, , 10, M, , 1840, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Peter, , 8, M, , 1842, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Frederick, , 5, M, , 1845, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Amanda, , 3, F, , 1847, , , PA 
+Greene (Loganville), 127, 127, Womeldorf, Henry, , 1, M, , 1849, Since Dead, , PA 
+Greene (Loganville), 128, 128, Frankenberker, Johnathan, , 55, M, , 1795, Farmer, $2,000, PA 
+Greene (Loganville), 128, 128, Frankenberker, Elizabeth, , 44, F, , 1806, Since Dead, , PA 
+Greene (Loganville), 128, 128, Frankenberker, George, , 22, M, , 1828, Since Dead, , PA 
+Greene (Loganville), 128, 128, Frankenberker, Elizabeth, , 20, F, , 1830, Since Dead, , PA 
+Greene (Loganville), 128, 128, Frankenberker, Frederick, , 16, M, , 1834, Since Dead, , PA 
+Greene (Loganville), 128, 128, Frankenberker, Caroline, , 13, F, , 1837, , , PA 
+Greene (Loganville), 128, 128, Frankenberker, Joseph, , 11, M, , 1839, , , PA 
+Greene (Loganville), 128, 128, Frankenberker, Mary, , 9, F, , 1841, , , PA 
+Greene (Loganville), 128, 128, Frankenberker, Samuel, , 7, M, , 1843, , , PA 
+Greene (Loganville), 128, 128, Frankenberker, Sarah, , 5, F, , 1845, , , PA 
+Greene (Loganville), 128, 128, Frankenberker, Conrad, , 3, M, , 1847, , , PA 
+Greene (Loganville), 129, 129, Mark, Adam, , 46, M, , 1804, Farmer, $2,000, PA 
+Greene (Loganville), 129, 129, Mark, Lidia, , 43, F, , 1807, , , PA 
+Greene (Loganville), 129, 129, Mark, Daniel, , 16, M, , 1834, , , PA 
+Greene (Loganville), 129, 129, Mark, Carlista, , 14, F, , 1836, , , PA 
+Greene (Loganville), 129, 129, Mark, Aron, , 12, M, , 1838, , , PA 
+Greene (Loganville), 129, 129, Mark, Amanda, , 10, F, , 1840, , , PA 
+Greene (Loganville), 129, 129, Mark, Jacob, , 8, M, , 1842, , , PA 
+Greene (Loganville), 129, 129, Mark, Lidia, , 7, F, , 1843, , , PA 
+Greene (Loganville), 129, 129, Mark, Ellen, , 5, F, , 1845, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, John, , 54, M, , 1796, Farmer, $600, PA 
+Greene (Loganville), 130, 130, Bloomcord, Elizabeth, , 50, F, , 1800, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, Abby, , 17, F, , 1833, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, Charlotte, , 15, F, , 1835, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, Precilla, , 13, F, , 1837, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, Thomas, , 18, M, , 1832, , , PA 
+Greene (Loganville), 130, 130, Bloomcord, Joseph, , 16, M, , 1834, , , PA 
+Greene (Loganville), 131, 131, Cramer, Ely, , 23, M, , 1827, Laborer, , PA 
+Greene (Loganville), 131, 131, Cramer, Elizabeth, , 20, F, , 1830, , , PA 
+Greene (Loganville), 131, 131, Cramer, Joseph, , 4, M, , 1846, , , PA 
+Greene (Loganville), 131, 131, Cramer, Sarah, , 2, F, , 1848, Since Dead, , PA 
+Greene (Loganville), 131, 131, Cramer, John, , 1, M, , 1849, Since Dead, , PA 
+Greene (Loganville), 132, 132, Hines, John, , 46, M, , 1804, Laborer, , IRE 
+Greene (Loganville), 132, 132, Hines, Rachael, , 43, F, , 1807, , , PA 
+Greene (Loganville), 132, 132, Hines, Sarah, , 8, F, , 1842, , , PA 
+Greene (Loganville), 133, 133, Wren, Barbary, , 48, F, , 1802, Single Maiden, $100, PA 
+Greene (Loganville), 133, 133, Mier, Michael, , 75, M, , 1775, , , PA 
+Greene (Loganville), 134, 134, Keister, Larry, , 51, M, , 1799, Laborer, , PA 
+Greene (Loganville), 134, 134, Keister, Mary, , 43, F, , 1807, , , PA 
+Greene (Loganville), 134, 134, Keister, Stephen, , 18, M, , 1832, , , PA 
+Greene (Loganville), 134, 134, Keister, Michael, , 16, M, , 1834, , , PA 
+Greene (Loganville), 134, 134, Keister, David, , 15, M, , 1835, , , PA 
+Greene (Loganville), 134, 134, Keister, Julia, , 13, F, , 1837, , , PA 
+Greene (Loganville), 134, 134, Keister, Daniel, , 11, M, , 1839, , , PA 
+Greene (Loganville), 134, 134, Keister, Barbary, , 9, F, , 1841, , , PA 
+Greene (Loganville), 134, 134, Keister, Mary, , 6, F, , 1844, , , PA 
+Greene (Loganville), 134, 134, Keister, Susan, , 5, F, , 1845, , , PA 
+Greene (Loganville), 135, 135, Barner, David, , 35, M, , 1815, Farmer, , PA 
+Greene (Loganville), 135, 135, Barner, Wilimina, , 33, F, , 1817, , , PA 
+Greene (Loganville), 135, 135, Barner, Thomas, , 13, M, , 1837, , , PA 
+Greene (Loganville), 135, 135, Barner, William, , 11, M, , 1839, , , PA 
+Greene (Loganville), 135, 135, Barner, Joseph, , 10, M, , 1840, , , PA 
+Greene (Loganville), 135, 135, Barner, Catharine, , 9, F, , 1841, , , PA 
+Greene (Loganville), 135, 135, Barner, Rebecca, , 7, F, , 1843, , , PA 
+Greene (Loganville), 135, 135, Barner, Franklin, , 6, M, , 1844, , , PA 
+Greene (Loganville), 135, 135, Barner, Dennis, , 4, M, , 1846, , , PA 
+Greene (Loganville), 135, 135, Barner, Fietta, , 2, F, , 1848, , , PA 
+Greene (Loganville), 136, 136, Bloomcord, Martin, , 72, M, , 1778, Farmer, $6,000, PA 
+Greene (Loganville), 136, 136, Bloomcord, Elizabeth, , 18, F, , 1832, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, John, , 40, M, , 1810, Since Dead, $3,500, PA 
+Greene (Loganville), 138, 138, Bloomcord, Mary, , 45, F, , 1805, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Susanna, , 21, F, , 1829, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Sarah, , 15, F, , 1835, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Lidia, , 16, F, , 1834, Since Dead, , PA 
+Greene (Loganville), 138, 138, Bloomcord, Seman, , 13, M, , 1837, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Anniea, , 11, F, , 1839, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Fietta, , 7, F, , 1843, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, Mary, , 4, F, , 1846, , , PA 
+Greene (Loganville), 138, 138, Bloomcord, John, , 1, M, , 1849, , , PA 
+Greene (Loganville), 139, 139, Douty, John, , 22, M, , 1828, Farmer *May say since dead, Aug 1850*, PA 
+Greene (Loganville), 139, 139, Douty, Barbary, , 22, F, , 1828, , , PA 
+Greene (Loganville), 139, 139, Douty, John, , 1, M, , 1849, , , PA 
+Greene (Loganville), 140, 140, Horman, Michael, , 50, M, , 1800, Farmer, $2,000, PA 
+Greene (Loganville), 140, 140, Horman, Cristena, , 38, F, , 1812, , , PA 
+Greene (Loganville), 140, 140, Horman, Manuel, , 18, M, , 1832, , , PA 
+Greene (Loganville), 140, 140, Horman, Daniel, , 16, M, , 1834, , , PA 
+Greene (Loganville), 140, 140, Horman, Elizabeth, , 14, F, , 1836, , , PA 
+Greene (Loganville), 140, 140, Horman, Francis, , 12, M, , 1838, , , PA 
+Greene (Loganville), 140, 140, Horman, David, , 10, M, , 1840, , , PA 
+Greene (Loganville), 140, 140, Horman, Mary, , 9, F, , 1841, , , PA 
+Greene (Loganville), 140, 140, Horman, Joseph, , 7, M, , 1843, , , PA 
+Greene (Loganville), 140, 140, Horman, William, , 6, M, , 1844, , , PA 
+Greene (Loganville), 140, 140, Horman, Harriet, , 4, F, , 1846, , , PA 
+Greene (Loganville), 140, 140, Horman, Cornelius, , 2, M, , 1848, , , PA 
+Greene (Loganville), 141, 141, Paul, George, , 51, M, , 1799, Farmer, $800, PA 
+Greene (Loganville), 141, 141, Paul, Barbary, , 41, F, , 1809, , , PA 
+Greene (Loganville), 141, 141, Paul, Lucy, , 18, F, , 1832, Since Dead, , PA 
+Greene (Loganville), 141, 141, Paul, John, , 11, M, , 1839, , , PA 
+Greene (Loganville), 141, 141, Paul, William, , 8, M, , 1842, , , PA 
+Greene (Loganville), 142, 142, Kanar, Solomon, , 42, M, , 1808, Laborer, , PA 
+Greene (Loganville), 142, 142, Kanar, Hannah, , 38, F, , 1812, , , PA 
+Greene (Loganville), 142, 142, Kanar, Andrew, , 15, M, , 1835, , , PA 
+Greene (Loganville), 142, 142, Kanar, Susan, , 13, F, , 1837, , , PA 
+Greene (Loganville), 142, 142, Kanar, Elizabeth, , 11, F, , 1839, , , PA 
+Greene (Loganville), 142, 142, Kanar, David, , 9, M, , 1841, , , PA 
+Greene (Loganville), 142, 142, Kanar, Solomon, , 6, M, , 1844, , , PA 
+Greene (Loganville), 142, 142, Kanar, John, , 3, M, , 1847, , , PA 
+Greene (Loganville), 143, 143, Starkey, Ely, , 62, M, , 1788, Since Dead, , PA 
+Greene (Loganville), 143, 143, Starkey, Barbary, , 61, F, , 1789, , , PA 
+Greene (Loganville), 143, 143, Starkey, Jacob, , 15, M, , 1835, , , PA 
+Greene (Loganville), 143, 143, Starkey, Catharine, , 13, F, , 1837, , , PA 
+Greene (Loganville), 144, 144, Fye, Jacob, , 33, M, , 1817, Laborer, , PA 
+Greene (Loganville), 144, 144, Fye, Susanna, , 32, F, , 1818, , , PA 
+Greene (Loganville), 144, 144, Fye, Elizabeth, , 12, F, , 1838, , , PA 
+Greene (Loganville), 144, 144, Fye, Mary, , 11, F, , 1839, , , PA 
+Greene (Loganville), 144, 144, Fye, Cristina, , 8, F, , 1842, , , PA 
+Greene (Loganville), 144, 144, Fye, John, , 6, M, , 1844, , , PA 
+Greene (Loganville), 144, 144, Fye, Barbary, , 4, F, , 1846, , , PA 
+Greene (Loganville), 144, 144, Fye, Henry, , 1, M, , 1849, Since Dead, , PA 
+Greene (Loganville), 145, 145, Confer, George, , 45, M, , 1805, Laborer, , PA 
+Greene (Loganville), 145, 145, Confer, Catharine, , 32, F, , 1818, , , PA 
+Greene (Loganville), 145, 145, Confer, Valentine, , 9, M, , 1841, , , PA 
+Greene (Loganville), 145, 145, Confer, Sarah, , 7, F, , 1843, , , PA 
+Greene (Loganville), 145, 145, Confer, Lidia, , 5, F, , 1845, , , PA 
+Greene (Loganville), 145, 145, Confer, John, , 3, M, , 1847, , , PA 
+Greene (Loganville), 145, 145, Treister, George, , 21, M, , 1829, Laborer, , PA 
+Greene (Loganville), 146, 146, Embeck, Jacob, , 38, M, , 1812, Shingle Maker, $300, PA 
+Greene (Loganville), 146, 146, Embeck, Susan, , 39, F, , 1811, , , PA 
+Greene (Loganville), 146, 146, Embeck, Philip, , 15, M, , 1835, , , PA 
+Greene (Loganville), 146, 146, Embeck, Mary, , 13, F, , 1837, , , PA 
+Greene (Loganville), 146, 146, Embeck, Maria, , 11, F, , 1839, , , PA 
+Greene (Loganville), 146, 146, Embeck, Daniel, , 9, M, , 1841, , , PA 
+Greene (Loganville), 146, 146, Embeck, Aron, , 7, M, , 1843, , , PA 
+Greene (Loganville), 146, 146, Embeck, Henry, , 3, M, , 1847, , , PA 
+Greene (Loganville), 147, 147, Rockey, Abraham, , 42, M, , 1808, Farmer, $1,500, PA 
+Greene (Loganville), 147, 147, Rockey, Lidia, , 38, F, , 1812, , , PA 
+Greene (Loganville), 147, 147, Rockey, Paul, , 19, M, , 1831, , , PA 
+Greene (Loganville), 147, 147, Rockey, Jacob, , 18, M, , 1832, , , PA 
+Greene (Loganville), 147, 147, Rockey, Rebecca, , 15, F, , 1835, , , PA 
+Greene (Loganville), 147, 147, Rockey, Jeremiah, , 13, M, , 1837, , , PA 
+Greene (Loganville), 147, 147, Rockey, John, , 11, M, , 1839, , , PA 
+Greene (Loganville), 147, 147, Rockey, Thomas, , 9, M, , 1841, , , PA 
+Greene (Loganville), 147, 147, Rockey, Abraham, , 7, M, , 1843, , , PA 
+Greene (Loganville), 147, 147, Rockey, Louis, , 5, M, , 1845, , , PA 
+Greene (Loganville), 147, 147, Rockey, William, , 3, M, , 1847, , , PA 
+Greene (Loganville), 147, 147, Rockey, Mary, , 1, F, , 1849, , , PA 
+Greene (Loganville), 148, 148, Starky, Frederick, , 35, M, , 1815, Laborer, , PA 
+Greene (Loganville), 148, 148, Starky, Elizabeth, , 25, F, , 1825, , , PA 
+Greene (Loganville), 148, 148, Starky, Mary, , 8, F, , 1842, , , PA 
+Greene (Loganville), 148, 148, Starky, David, , 6, M, , 1844, , , PA 
+Greene (Loganville), 148, 148, Starky, Frederick, , 3, M, , 1847, , , PA 
+Greene (Loganville), 148, 148, Starky, William, , 6 mo, M, , 1850, , , PA 
+Greene (Loganville), 149, 149, Rote, Paul, , 42, M, , 1808, Farmer, $600, PA 
+Greene (Loganville), 149, 149, Rote, Mary, , 40, F, , 1810, , , PA 
+Greene (Loganville), 149, 149, Rote, John, , 17, M, , 1833, , , PA 
+Greene (Loganville), 149, 149, Rote, Samuel, , 15, M, , 1835, , , PA 
+Greene (Loganville), 149, 149, Rote, Paul, , 12, M, , 1838, , , PA 
+Greene (Loganville), 149, 149, Rote, Hezekiah, , 9, M, , 1841, , , PA 
+Greene (Loganville), 149, 149, Rote, Rebecca, , 7, F, , 1843, , , PA 
+Greene (Loganville), 149, 149, Rote, Alex, , 4, M, , 1846, , , PA 
+Greene (Loganville), 149, 149, Rote, Mary, , 2, F, , 1848, , , PA 
+Greene (Loganville), 150, 150, Miller, Peter, B, 33, M, , 1817, Farmer, $400, PA 
+Greene (Loganville), 150, 150, Miller, Elizabeth, , 33, F, , 1817, , , PA 
+Greene (Loganville), 150, 150, Miller, Emanuel, , 9, M, , 1841, , , PA 
+Greene (Loganville), 150, 150, Miller, Thomas, , 7, M, , 1843, , , PA 
+Greene (Loganville), 150, 150, Miller, William, , 5, M, , 1845, , , PA 
+Greene (Loganville), 150, 150, Miller, Alfred, , 3, M, , 1847, , , PA 
+Greene (Loganville), 150, 150, Miller, Mahala, , 1, F, , 1849, , , PA 
+Greene (Loganville), 151, 151, Kreister, Adam, , 45, M, , 1805, Laborer, , PA 
+Greene (Loganville), 151, 151, Kreister, Mary, , 46, F, , 1804, , , PA 
+Greene (Loganville), 151, 151, Kreister, Lidia, , 18, F, , 1832, , , PA 
+Greene (Loganville), 151, 151, Kreister, Mary, , 16, F, , 1834, , , PA 
+Greene (Loganville), 151, 151, Kreister, Elizabeth, , 13, F, , 1837, , , PA 
+Greene (Loganville), 151, 151, Kreister, Margaret, , 10, F, , 1840, , , PA 
+Greene (Loganville), 151, 151, Kreister, John, , 8, M, , 1842, , , PA 
+Greene (Loganville), 151, 151, Kreister, Clara, , 7, F, , 1843, , , PA 
+Greene (Loganville), 152, 152, Carrier, John, , 50, M, , 1800, Laborer, , PA 
+Greene (Loganville), 152, 152, Carrier, Eve, , 44, F, , 1806, , , PA 
+Greene (Loganville), 152, 152, Carrier, Catharine, , 12, F, , 1838, , , PA 
+Greene (Loganville), 152, 152, Carrier, Andrew, , 9, M, , 1841, , , PA 
+Greene (Loganville), 152, 152, Carrier, Philip, , 4, M, , 1846, , , PA 
+Greene (Loganville), 153, 153, Kemrer, Samuel, , 37, M, , 1813, Farmer, $300, PA 
+Greene (Loganville), 153, 153, Kemrer, Amelia, , 33, F, , 1817, , , PA 
+Greene (Loganville), 153, 153, Kemrer, Ann, , 15, F, , 1835, , , PA 
+Greene (Loganville), 153, 153, Kemrer, Rebecca, , 8, F, , 1842, , , PA 
+Greene (Loganville), 153, 153, Kemrer, John, , 6, M, , 1844, , , PA 
+Greene (Loganville), 154, 154, Buck, Jacob, , 40, M, , 1810, Farmer, , PA 
+Greene (Loganville), 154, 154, Buck, Elizabeth, , 44, F, , 1806, , , PA 
+Greene (Loganville), 154, 154, Buck, Louis, , 15, M, , 1835, , , PA 
+Greene (Loganville), 154, 154, Buck, Elizabeth, , 13, F, , 1837, , , PA 
+Greene (Loganville), 154, 154, Buck, Rosanna, , 11, F, , 1839, , , PA 
+Greene (Loganville), 154, 154, Buck, Charles, , 9, M, , 1841, , , PA 
+Greene (Loganville), 154, 154, Buck, Barbary, , 2 mo, F, , 1850, , , PA 
+Greene, 155, 155, Sheets, Jacob, , 40, M, , 1810, Farmer, $700, PA 
+Greene, 155, 155, Sheets, Margaret, , 35, F, , 1815, , , PA 
+Greene, 155, 155, Sheets, Mary, , 16, F, , 1834, , , PA 
+Greene, 155, 155, Sheets, Samuel, , 13, M, , 1837, , , PA 
+Greene, 155, 155, Sheets, Abby, , 11, F, , 1839, , , PA 
+Greene, 155, 155, Sheets, Adelia, , 9, F, , 1841, , , PA 
+Greene, 155, 155, Sheets, Rebecca, , 7, F, , 1843, , , PA 
+Greene, 155, 155, Sheets, Harriet, , 5, F, , 1845, , , PA 
+Greene, 155, 155, Sheets, Jonas, , 3, M, , 1847, , , PA 
+Greene, 156, 156, Batchel, Johnathan, , 34, M, , 1816, Farmer, $300, PA 
+Greene, 156, 156, Batchel, Catharine, , 36, F, , 1814, , , PA 
+Greene, 156, 156, Batchel, Caroline, , 11, F, , 1839, , , PA 
+Greene, 156, 156, Batchel, Melchi, , 9, F, , 1841, , , PA 
+Greene, 156, 156, Batchel, Barbary, , 7, F, , 1843, , , PA 
+Greene, 156, 156, Batchel, Samuel, , 5, M, , 1845, , , PA 
+Greene, 156, 156, Batchel, John, , 1, M, , 1849, , , PA 
+Greene, 161, 161, Pickel, John, , 43, M, , 1807, Farmer, $500, PA 
+Greene, 161, 161, Pickel, Catharine, , 42, F, , 1808, , , PA 
+Greene, 161, 161, Pickel, Magdaline, , 20, F, , 1830, , , PA 
+Greene, 161, 161, Pickel, Johnathan, , 18, M, , 1832, , , PA 
+Greene, 161, 161, Pickel, Margaret, , 17, F, , 1833, , , PA 
+Greene, 161, 161, Pickel, Lucinda, , 15, F, , 1835, , , PA 
+Greene, 161, 161, Pickel, William, , 13, M, , 1837, , , PA 
+Greene, 161, 161, Pickel, Amanda, , 11, F, , 1839, , , PA 
+Greene, 161, 161, Pickel, Alice, , 9, F, , 1841, , , PA 
+Greene, 161, 161, Pickel, Daniel, , 7, M, , 1843, , , PA 
+Greene, 161, 161, Pickel, Thomas, , 4, M, , 1846, , , PA 
+Greene, 161, 161, Pickel, Ellen, , 1, F, , 1849, , , PA 
+Greene, 162, 162, Werts, Philip, , 49, M, , 1801, Farmer, $700, PA 
+Greene, 162, 162, Werts, Barbary, , 48, F, , 1802, , , PA 
+Greene, 162, 162, Werts, Joseph, , 17, M, , 1833, , , PA 
+Greene, 162, 162, Werts, John, , 13, M, , 1837, , , PA 
+Greene, 162, 162, Werts, David, , 15, M, , 1835, , , PA 
+Greene, 162, 162, Werts, Mary, , 10, F, , 1840, , , PA 
+Greene, 162, 162, Werts, Sarah, , 8, F, , 1842, , , PA 
+Greene, 162, 162, Werts, Adam, , 5, M, , 1845, , , PA 
+Greene, 163, 163, Eyre, William, , 33, M, , 1817, Farmer, $500, PA 
+Greene, 163, 163, Eyre, Crestina, , 33, F, , 1817, , , PA 
+Greene, 163, 163, Eyre, Catharine, , 10, F, , 1840, , , PA 
+Greene, 163, 163, Eyre, Margaret, , 8, F, , 1842, , , PA 
+Greene, 163, 163, Eyre, Crestina, , 6, F, , 1844, , , PA 
+Greene, 163, 163, Eyre, John, , 3, M, , 1847, , , PA 

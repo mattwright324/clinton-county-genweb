@@ -1,0 +1,327 @@
+Township, Hse#, Fam#, Surname, Given Name, MI, Age, Sex, Color, DOB, Occupation, $ Estate, Birthplace
+
+Colebrook, 1, 1, Crea, Robert, , 42, M, , 1808, Miner, , SCT 
+Colebrook, 1, 1, Crea, Agness, , 30, F, , 1820, , , SCT 
+Colebrook, 1, 1, Crea, Robert, , 10, M, , 1840, , , PA 
+Colebrook, 1, 1, Crea, David, , 7, M, , 1843, Since Dead, , PA 
+Colebrook, 1, 1, Crea, Sarah, , 5, F, , 1845, , , PA 
+Colebrook, 1, 1, Crea, Mary, J, 3, F, , 1847, , , PA 
+Colebrook, 1, 1, Crea, Margaret, , 3 mo, F, , 1850, , , PA 
+Colebrook, 2, 2, Henry, David, , 34, M, , 1816, Miner, , SCT 
+Colebrook, 2, 2, Henry, Isabella, , 36, F, , 1814, , , SCT 
+Colebrook, 2, 2, Henry, Agness, , 16, F, , 1834, , , SCT 
+Colebrook, 2, 2, Henry, Marion, , 12, F, , 1838, , , SCT 
+Colebrook, 3, 3, Easton, Thomas, , 23, M, , 1827, Miner, , SCT 
+Colebrook, 3, 3, Easton, Susan, , 21, F, , 1829, , , PA 
+Colebrook, 4, 4, Richardson, George, , 31, M, , 1819, Miner, , PA 
+Colebrook, 4, 4, Richardson, Agness, , 26, F, , 1824, , , PA 
+Colebrook, 4, 4, Richardson, Margaret, , 4, F, , 1846, , , PA 
+Colebrook, 4, 4, Richardson, James, , 3, M, , 1847, , , PA 
+Colebrook, 4, 4, Richardson, William, , 1, M, , 1849, , , PA 
+Colebrook, 5, 5, Dunnsmore, Alex, , 25, M, , 1825, Miner, , SCT 
+Colebrook, 5, 5, Dunnsmore, Marion, , 22, F, , 1828, , , SCT 
+Colebrook, 5, 5, Dunnsmore, Francis, , 2, M, , 1848, , , PA 
+Colebrook, 5, 5, Dunnsmore, Archibald, , 8 mo, M, , 1850, , , PA 
+Colebrook, 6, 6, Stewart, Charles, , 48, M, , 1802, Hotel Keeper, , PA 
+Colebrook, 6, 6, Stewart, Hannah, , 44, F, , 1806, , , PA 
+Colebrook, 6, 6, Stewart, Mary, Ann, 19, F, , 1831, , , PA 
+Colebrook, 6, 6, Stewart, Rebecca, G, 17, F, , 1833, , , PA 
+Colebrook, 6, 6, Stewart, James, F, 15, M, , 1835, , , PA 
+Colebrook, 6, 6, Stewart, Andrew, P, 13, M, , 1837, , , PA 
+Colebrook, 6, 6, Stewart, John, M, 11, M, , 1839, , , PA 
+Colebrook, 6, 6, Stewart, William, P, 5, M, , 1845, , , PA 
+Colebrook, 6, 6, Stewart, Robert, D, 2, M, , 1848, , , PA 
+Colebrook, 6, 6, Stewart, Charles, D, 2, M, , 1848, , , PA 
+Colebrook, 6, 6, Tracy, James, M, 31, M, , 1819, Boot/Shoe Maker, , ?? 
+Colebrook, 6, 6, Bradford, Albert, G, 36, M, , 1814, Coal Opperator, $15, 000, PA 
+Colebrook, 6, 6, Little, George, , 56, M, , 1794, Coal Operator, , ?? 
+Colebrook, 6, 6, Little, George, , 16, M, , 1834, , , ?? 
+Colebrook, 6, 6, Answorth, Charles, , 27, M, , 1823, Lumber ???, , VT 
+Colebrook, 7, 7, Mahony, Michael, , 40, M, , 1810, Labourer, , IRE 
+Colebrook, 7, 7, Mahony, Julia, , 40, F, , 1810, , , IRE 
+Colebrook, 7, 7, Mahony, James, , 17, M, , 1833, Labourer, , PA 
+Colebrook, 7, 7, Mahony, Sarah, , 15, F, , 1835, , , PA 
+Colebrook, 7, 7, Mahony, Catharine, , 12, F, , 1838, , , PA 
+Colebrook, 8, 8, Williams, John, , 38, M, , 1812, Brick Moulder, , ?? 
+Colebrook, 8, 8, Williams, Elizabeth, , 38, F, , 1812, , , ENG 
+Colebrook, 8, 8, Williams, William, , 18, M, , 1832, Brick Moulder, , ?? 
+Colebrook, 8, 8, Williams, Emily, , 12, F, , 1838, , , ?? 
+Colebrook, 8, 8, Williams, George, W, 10, M, , 1840, , , ?? 
+Colebrook, 8, 8, Williams, John, , 6, M, , 1844, , , ?? 
+Colebrook, 8, 8, Williams, Philip, Henry, 2, M, , 1848, Since Dead, , ?? 
+Colebrook, 9, 9, Crow, Analisa, , 33, F, , 1817, Widow, , PA 
+Colebrook, 9, 9, Crow, Sarah, J, 9, F, , 1841, , , PA 
+Colebrook, 9, 9, Crow, Charles, , 7, M, , 1843, , , PA 
+Colebrook, 9, 9, McGill, Samuel, , 22, M, , 1828, House Carpenter, , PA 
+Colebrook, 9, 9, Hanly, Henry, , 22, M, , 1828, Labourer, , PA 
+Colebrook, 10, 10, Aaron, Jacob, , 30, M, , 1820, Labourer, , PA 
+Colebrook, 10, 10, Aaron, Agness, , 30, F, , 1820, , , PA 
+Colebrook, 10, 10, Aaron, Jacob, , 10, M, , 1840, , , PA 
+Colebrook, 10, 10, Aaron, John, , 8, M, , 1842, , , PA 
+Colebrook, 10, 10, Aaron, George, , 6, M, , 1844, , , PA 
+Colebrook, 10, 10, Aaron, Martin, , 4, M, , 1846, , , PA 
+Colebrook, 10, 10, Aaron, Anna, , 3, F, , 1847, , , PA 
+Colebrook, 10, 10, Aaron, Christian, , 6 mo, M, , 1850, , , PA 
+Colebrook, 11, 11, Herron, Sarah, , 34, F, , 1816, Widow, , SCT 
+Colebrook, 11, 11, Herron, Margaret, , 14, F, , 1836, , , SCT 
+Colebrook, 11, 11, Herron, Mary, , 12, F, , 1838, , , SCT 
+Colebrook, 11, 11, Herron, Jane, , 9, F, , 1841, , , SCT 
+Colebrook, 11, 11, Herron, David, , 6, M, , 1844, , , PA 
+Colebrook, 11, 11, Herron, James, , 4, M, , 1846, , , PA 
+Colebrook, 12, 12, M??ke, Garret, , 42, M, , 1808, , , IRE 
+Colebrook, 12, 12, M??ke, Mary, , 13, F, , 1837, , , PA 
+Colebrook, 12, 12, M??ke, John, , 16, M, , 1834, , , IRE 
+Colebrook, 12, 12, M??ke, Ellen, , 12, F, , 1838, , , PA 
+Colebrook, 12, 12, M??ke, Daniel, , 11, M, , 1839, , , PA 
+Colebrook, 12, 12, M??ke, Margaret, , 7, F, , 1843, , , PA 
+Colebrook, 12, 12, M??ke, Hannah, , 5, F, , 1845, , , PA 
+Colebrook, 13, 13, Roach, Michael, , 52, M, , 1798, Shoe Maker, , ?? 
+Colebrook, 13, 13, Roach, Margaret, , 50, F, , 1800, , , IRE 
+Colebrook, 13, 13, Roach, James, , 25, M, , 1825, Boatsman, , IRE 
+Colebrook, 13, 13, Roach, William, , 22, M, , 1828, Boatsman, , IRE 
+Colebrook, 13, 13, Roach, Michael, , 20, M, , 1830, Boat Maker, , ?? 
+Colebrook, 14, 14, Bamghart, J, , 30, M, , 1820, Mill Right, , PA 
+Colebrook, 14, 14, Bamghart, Sarah, , 23, F, , 1827, , , ?? 
+Colebrook, 15, 15, Rosenberger, Joseph?, , 22, M, , 1828, H Carpenter, , PA 
+Colebrook, 15, 15, Rosenberger, E??, , 17, F, , 1833, , , PA 
+Colebrook, 16, 16, Henry, John, , 25, M, , 1825, Boatsman, , PA 
+Colebrook, 16, 16, Henry, Eleanor, , 19, F, , 1831, , , PA 
+Colebrook, 17, 17, Cahoe, Juliann, , 49, F, , 1801, Widow, , IRE 
+Colebrook, 17, 17, Cahoe, Michael, , 18, M, , 1832, Labourer, , CAN 
+Colebrook, 17, 17, Cahoe, Mary, , 16, F, , 1834, , , CAN 
+Colebrook, 17, 17, Cahoe, James, , 11, M, , 1839, , , CAN 
+Colebrook, 18, 18, Murray, Jerimiah, , 40, M, , 1810, Labourer, , IRE 
+Colebrook, 18, 18, Murray, Julia, , 35, F, , 1815, , , IRE 
+Colebrook, 18, 18, Murray, Mary, , 13, F, , 1837, , , IRE 
+Colebrook, 18, 18, Murray, Dennis, , 10, M, , 1840, , , IRE 
+Colebrook, 18, 18, Murray, John, , 1, M, , 1849, , , PA 
+Colebrook, 19, 19, Brease, Henry, , 40, M, , 1810, Teamster, , PA 
+Colebrook, 19, 19, Brease, Mary, , 32, F, , 1818, , , PA 
+Colebrook, 19, 19, Brease, Albert, , 8, M, , 1842, , , PA 
+Colebrook, 19, 19, Brease, Charles, , 6, M, , 1844, , , PA 
+Colebrook, 19, 19, Brease, William, , 4, M, , 1846, , , PA 
+Colebrook, 19, 19, Brease, Mary, A, 2, F, , 1848, , , PA 
+Colebrook, 19, 19, Hess, Phoebe, A, 34, F, , 1816, , , PA 
+Colebrook, 19, 19, Brease, George, , 5, M, , 1845, Since Dead, , PA 
+Colebrook, 20, 20, Lovett, Michael, , 22, M, , 1828, Labourer, , IRE 
+Colebrook, 20, 20, Lovett, Margaret, , 18, F, , 1832, , , PA 
+Colebrook, 20, 20, Wandel, Jonas, , 37, M, , 1813, , , ITA 
+Colebrook, 20, 20, Wandel, Sarah, , 24, F, , 1826, , , NY 
+Colebrook, 21, 21, Colman, Michael, , 59, M, , 1791, Labourer, , IRE 
+Colebrook, 21, 21, Colman, Ellen, , 52, F, , 1798, , , IRE 
+Colebrook, 21, 21, Colman, John, , 18, M, , 1832, , , NY 
+Colebrook, 21, 21, Colman, Mary, , 16, F, , 1834, , , PA 
+Colebrook, 22, 22, Bankhead, James, , 30, M, , 1820, Miner, , SCT 
+Colebrook, 22, 22, Bankhead, Mary, , 28, F, , 1822, , , PA 
+Colebrook, 22, 22, Bankhead, George, , 10, M, , 1840, , , PA 
+Colebrook, 22, 22, Bankhead, Ellen, , 6, F, , 1844, , , PA 
+Colebrook, 22, 22, Bankhead, Jane, , 3, F, , 1847, , , PA 
+Colebrook, 23, 23, Lottingham, Leonard, , 43, M, , 1807, Teamster, , NY 
+Colebrook, 23, 23, Lottingham, Sarah, , 46, F, , 1804, , , PA 
+Colebrook, 23, 23, Murphey, Sarah, , 15, F, , 1835, , , PA 
+Colebrook, 23, 23, Calvert, John, , 26, M, , 1824, Clerk, , PA 
+Colebrook, 23, 23, Right, Girard, W, 19, M, , 1831, Clerk, , PA 
+Colebrook, 24, 24, Easton, Robert, , 60, M, , 1790, Miner, , SCT 
+Colebrook, 24, 24, Easton, Sarah, , 55, F, , 1795, , , SCT 
+Colebrook, 24, 24, Easton, Robert, , 8, M, , 1842, , , PA 
+Colebrook, 25, 25, McGill, Flemming, , 44, M, , 1806, Labourer, , PA 
+Colebrook, 25, 25, McGill, Sarah, , 40, F, , 1810, , , PA 
+Colebrook, 25, 25, McGill, James, , 14, M, , 1836, , , PA 
+Colebrook, 25, 25, McGill, John, , 11, M, , 1839, , , PA 
+Colebrook, 25, 25, McGill, ??ettson, , 6, M, , 1844, , , PA 
+Colebrook, 25, 25, McGill, Margaret, , 12, F, , 1838, , , PA 
+Colebrook, 25, 25, Martin, Love, , 50, M, , 1800, Labourer, , PA 
+Colebrook, 26, 26, Spearing, Jonas, , 54, M, , 1796, Farmer, $5, 000, ENG 
+Colebrook, 26, 26, Spearing, Emily, , 23, F, , 1827, , , PA 
+Colebrook, 26, 26, Spearing, Jonas, B, 4 mo, M, , 1850, , , PA 
+Colebrook, 27, 27, Hurd, R, R, 23, M, , 1827, Labourer, , PA 
+Colebrook, 27, 27, Hurd, Margaret, , 23, F, , 1827, , , PA 
+Colebrook, 27, 27, Hurd, Millard, G, 2, M, , 1848, , , PA 
+Colebrook, 27, 27, Black, Mary, C, 11, F, , 1839, , , PA 
+Colebrook, 28, 28, McCloskey, Robert, , 30, M, , 1820, Labourer, , PA 
+Colebrook, 28, 28, McCloskey, Amelia, , 25, F, , 1825, , , PA 
+Colebrook, 28, 28, McCloskey, Jacob, M, 3 mo, M, , 1850, , , PA 
+Colebrook, 28, 28, McCloskey, Sarah, A, 2, F, , 1848, Since Dead, , PA 
+Colebrook, 29, 29, Spearing, Henry, , 27, M, , 1823, Merchant, $2, 000, ENG 
+Colebrook, 29, 29, Spearing, Jane, , 26, F, , 1824, , , ENG 
+Colebrook, 29, 29, Spearing, Mary, J, 6, F, , 1844, , , PA 
+Colebrook, 29, 29, Spearing, Charles, H, 2, M, , 1848, , , PA 
+Colebrook, 29, 29, Spearing, John, A, 9 mo, M, , 1850, , , PA 
+Colebrook, 30, 30, Saffer, Isaac, , 28, M, , 1822, Lumberman, , PA 
+Colebrook, 30, 30, Saffer, Sarah, A, 29, F, , 1821, , , PA 
+Colebrook, 30, 30, Saffer, William, P, 1, M, , 1849, , , PA 
+Colebrook, 30, 30, Kitchen, Henry, , 12, M, , 1838, , , PA 
+Colebrook, 31, 31, Kitchen, Charles, , 36, M, , 1814, Shoe Maker, $300, PA 
+Colebrook, 31, 31, Kitchen, Christena, , 37, F, , 1813, , , PA 
+Colebrook, 31, 31, Kitchen, Abraham, , 16, M, , 1834, Apprentice, , PA 
+Colebrook, 31, 31, Kitchen, Elizabeth, , 11, F, , 1839, , , PA 
+Colebrook, 31, 31, Kitchen, Sarah, , 9, F, , 1841, , , PA 
+Colebrook, 31, 31, Kitchen, William, E, 7, M, , 1843, , , PA 
+Colebrook, 31, 31, Kitchen, Thomas, , 4, M, , 1846, , , PA 
+Colebrook, 32, 32, Agar, John, , 47, M, , 1803, Tailor, , IRE 
+Colebrook, 32, 32, Agar, Hanna, B, 43, F, , 1807, , , IRE 
+Colebrook, 32, 32, Agar, Alexander, , 17, M, , 1833, Apprentice, , IRE 
+Colebrook, 32, 32, Agar, Caroline, , 14, F, , 1836, , , MA 
+Colebrook, 32, 32, Agar, John, , 10, M, , 1840, , , NY 
+Colebrook, 32, 32, Agar, Robert, , 9, M, , 1841, , , NY 
+Colebrook, 32, 32, Agar, George, , 7, M, , 1843, , , NY 
+Colebrook, 33, 33, Heron, John, , 37, M, , 1813, Miner, , SCT 
+Colebrook, 33, 33, Heron, Elizabeth, , 36, F, , 1814, , , SCT 
+Colebrook, 33, 33, Heron, David, , 7, M, , 1843, , , SCT 
+Colebrook, 33, 33, Heron, Elizabeth, , 5, F, , 1845, , , SCT 
+Colebrook, 33, 33, Heron, Mary, A, 3, F, , 1847, , , SCT 
+Colebrook, 34, 34, McEwen, Michael, , 20, M, , 1830, Labourer, , SCT 
+Colebrook, 34, 34, McEwen, Mary, , 19, F, , 1831, , , SCT 
+Colebrook, 34, 34, McEwen, James, , 2 mo, M, , 1850, , , PA 
+Colebrook, 35, 35, Murphey, William, , 33, M, , 1817, Labourer, , IRE 
+Colebrook, 35, 35, Murphey, Hannah, , 28, F, , 1822, , , IRE 
+Colebrook, 35, 35, Murphey, ?rrano, , 6, F, , 1844, , , PA 
+Colebrook, 35, 35, Murphey, Catherine, , 4, F, , 1846, , , PA 
+Colebrook, 35, 35, Murphey, William, , 1, M, , 1849, , , PA 
+Colebrook, 35, 35, Crowley, Catharine, , 17, F, , 1833, , , IRE 
+Colebrook, 36, 36, Green, John, , 34, M, , 1816, Labourer, , NY 
+Colebrook, 36, 36, Green, Alice, , 32, F, , 1818, , , PA 
+Colebrook, 36, 36, Green, Elisabeth, A, 9, F, , 1841, , , PA 
+Colebrook, 36, 36, Green, Emeline, , 5, F, , 1845, , , PA 
+Colebrook, 36, 36, Walton, Elizabeth, , 58, F, , 1792, Widow, , PA 
+Colebrook, 37, 37, Bernstine?, Mathias, S, 22, M, , 1828, Merchant, , CN 
+Colebrook, 37, 37, Bernstine?, Julian, A, 41, F, , 1809, , , CN 
+Colebrook, 37, 37, ??, George, , 26, M, , 1824, Lumber Manufact, $20, 000, CN 
+Colebrook, 37, 37, Martin, Alma, , 17, F, , 1833, , , PA 
+Colebrook, 38, 38, Easton, Alexander, , 21, M, , 1829, Miner, , SCT 
+Colebrook, 38, 38, Easton, Eleanor, , 25, F, , 1825, , , ENG 
+Colebrook, 38, 38, Easton, Benjamin, , 2, M, , 1848, , , PA 
+Colebrook, 39, 39, Gardner, Green, , 29, M, , 1821, Labourer, , PA 
+Colebrook, 39, 39, Gardner, Jane, , 22, F, , 1828, , , PA 
+Colebrook, 39, 39, Gardner, Mary, J, 8, F, , 1842, , , PA 
+Colebrook, 40, 40, Pfouts, Susan, , 27, F, , 1823, Widow, , PA 
+Colebrook, 40, 40, Pfouts, Columbus, , 7, M, , 1843, , , PA 
+Colebrook, 40, 40, Martin, James, , 26, M, , 1824, Labourer, , IRE 
+Colebrook, 40, 40, McKelharney, Smith, , 19, M, , 1831, Labourer, , PA 
+Colebrook, 40, 40, Heavner, William, , 22, M, , 1828, Labourer, , PA 
+Colebrook, 41, 41, Hoffman, Elesha, , 35, M, , 1815, , , PA 
+Colebrook, 41, 41, Hoffman, Margaret, , 32, F, , 1818, , , PA 
+Colebrook, 41, 41, Hoffman, Margaret, A, 9, F, , 1841, , , PA 
+Colebrook, 41, 41, Hoffman, Mary, E, 6, F, , 1844, , , PA 
+Colebrook, 41, 41, Hoffman, Sarah, , 1, F, , 1849, , , PA 
+Colebrook, 42, 42, Hitchcock, Platt, , 46, M, , 1804, , , PA 
+Colebrook, 42, 42, Hitchcock, Sarah, , 43, F, , 1807, , , PA 
+Colebrook, 42, 42, Hitchcock, Joseph, , 23, M, , 1827, , , PA 
+Colebrook, 42, 42, Hitchcock, Phoebe, , 18, F, , 1832, , , PA 
+Colebrook, 42, 42, Hitchcock, Hannah, , 10, F, , 1840, , , PA 
+Colebrook, 42, 42, Hitchcock, Sarah, , 7, F, , 1843, , , PA 
+Colebrook, 42, 42, Hitchcock, Mary, , 5, F, , 1845, , , PA 
+Colebrook, 42, 42, Hitchcock, Frances, , 1, F, , 1849, , , PA 
+Colebrook, 43, 43, Munrow, Alexander, , 45, M, , 1805, Brick Maker, , SCT 
+Colebrook, 43, 43, Munrow, Jeanette, , 45, F, , 1805, , , SCT 
+Colebrook, 43, 43, Munrow, Alexander, , 21, M, , 1829, Miner, , SCT 
+Colebrook, 43, 43, Munrow, John, , 19, M, , 1831, , , SCT 
+Colebrook, 43, 43, Munrow, Archibald, , 16, M, , 1834, , , ?? 
+Colebrook, 43, 43, Munrow, Henry, , 14, M, , 1836, , , ?? 
+Colebrook, 43, 43, Munrow, Neil, , 12, M, , 1838, , , PA 
+Colebrook, 43, 43, Munrow, Janett, , 8, F, , 1842, , , PA 
+Colebrook, 43, 43, Munrow, Phoebe, , 6, F, , 1844, , , PA 
+Colebrook, 44, 44, Poorman, Washington, , 27, M, , 1823, Labourer, , PA 
+Colebrook, 44, 44, Poorman, Mary, , 23, F, , 1827, , , PA 
+Colebrook, 44, 44, Poorman, Susan, N, 2 mo, F, , 1850, , , PA 
+Colebrook, 45, 45, Stockwell, John, , 35, M, , 1815, Laborer, , ? 
+Colebrook, 45, 45, Stockwell, Susan, , 39, F, , 1811, , , PA 
+Colebrook, 45, 45, Stockwell, John, , 14, M, , 1836, , , PA 
+Colebrook, 46, 46, Barret, Tobias, , 28, M, , 1822, Sawyer, , ? 
+Colebrook, 46, 46, Barret, Margaret, , 25, F, , 1825, , , PA 
+Colebrook, 46, 46, Barret, Catharine, , 7, F, , 1843, , , PA 
+Colebrook, 46, 46, Barret, John, , 4, M, , 1846, , , PA 
+Colebrook, 46, 46, Barret, Nancy, M, 2, F, , 1848, , , PA 
+Colebrook, 47, 47, Myers, John, , 38, M, , 1812, Laborer, , ? 
+Colebrook, 47, 47, Myers, Elisabeth, , 30, F, , 1820, , , PA 
+Colebrook, 47, 47, Myers, Henry, , 8, M, , 1842, , , PA 
+Colebrook, 47, 47, Myers, Mary, C, 6, F, , 1844, , , PA 
+Colebrook, 47, 47, Myers, Elijah, , 3, M, , 1847, , , PA 
+Colebrook, 47, 47, Myers, Sarah, J, 1, F, , 1849, , , PA 
+Colebrook, 48, 48, Bowers, George, , 32, M, , 1818, Laborer, , PA 
+Colebrook, 48, 48, Bowers, Mary, , 25, F, , 1825, , , PA 
+Colebrook, 48, 48, Bowers, John, F, 6, M, , 1844, , , PA 
+Colebrook, 48, 48, Bowers, Susan, , 4, F, , 1846, , , PA 
+Colebrook, 48, 48, Bowers, William, , 2, M, , 1848, Since Dead, , PA 
+Colebrook, 48, 48, Rorabaugh, John, , 22, M, , 1828, Laborer, , PA 
+Colebrook, 49, 49, Agar, Rebecca, , 5, F, , 1845, , , PA 
+Colebrook, 49, 49, Agar, Walter, , 3, M, , 1847, , , PA 
+Colebrook, 49, 49, Agar, Mary, A, 4 mo, F, , 1850, , , PA 
+Colebrook, 50, 50, Rose, Daniel, , 57, M, , 1793, Lumber Manufact., , NJ 
+Colebrook, 50, 50, Rose, Agness, , 55, F, , 1795, , , PA 
+Colebrook, 50, 50, Rose, Elisabeth, , 26, F, , 1824, , , PA 
+Colebrook, 50, 50, Rose, Catharine, ?, 19, F, , 1831, , , PA 
+Colebrook, 50, 50, Rose, Matilda, , 15, F, , 1835, , , PA 
+Colebrook, 50, 50, Black, Daniel, , 7, M, , 1843, , , PA 
+Colebrook, 50, 50, Black, Charles, , 5, M, , 1845, , , PA 
+Colebrook, 50, 50, Black, David, M, 3, M, , 1847, , , PA 
+Colebrook, 50, 50, Alison, Joseph, Webster, 11, M, , 1839, , , PA 
+Colebrook, 50, 50, Montgomery, Alexander, , 38, M, , 1812, Carpenter, , PA 
+Colebrook, 50, 50, Bull, Ralph, , 25, M, , 1825, Sawyer, , CN 
+Colebrook, 51, 51, Poorman, Washington, , 29, M, , 1821, None listed, , CN 
+Colebrook, 51, 51, McNarney, Thomas, , 23, M, , 1827, Laborer, , UNK 
+Colebrook, 51, 51, Fleming, Esekiel, , 21, M, , 1829, Laborer, , PA 
+Colebrook, 51, 51, Reese, John, , 24, M, , 1826, Laborer, , PA 
+Colebrook, 51, 51, Young, John, , 23, M, , 1827, Laborer, , PA 
+Colebrook, 51, 51, Young, Levi, , 19, M, , 1831, Laborer, , PA 
+Colebrook, 52, 52, Kinly, George, , 28, M, , 1822, Laborer, , PA 
+Colebrook, 52, 52, Kinly, Lidia, , 25, F, , 1825, , , PA 
+Colebrook, 52, 52, Kinly, Williamdon, , 8, M, , 1842, , , PA 
+Colebrook, 52, 52, Kinly, James, J, 6, M, , 1844, , , PA 
+Colebrook, 52, 52, Kinly, Mary, J, 4, F, , 1846, , , PA 
+Colebrook, 52, 52, Kinly, Elizabeth, , 2, F, , 1848, , , PA 
+Colebrook, 52, 52, Kinly, Jepatha, , 7 mo, M, , 1850, , , PA 
+Colebrook, 53, 53, Cryder, Jacob, , 40, M, , 1810, Laborer, , PA 
+Colebrook, 53, 53, Cryder, Maria, , 28, F, , 1822, , , PA 
+Colebrook, 53, 53, Cryder, James, , 10, M, , 1840, , , PA 
+Colebrook, 53, 53, Cryder, Sebastian, , 8, M, , 1842, , , PA 
+Colebrook, 53, 53, Cryder, Mary, I, 6, F, , 1844, , , PA 
+Colebrook, 53, 53, Cryder, Rachael, , 4, F, , 1846, , , PA 
+Colebrook, 53, 53, Cryder, Eliza, , 2, F, , 1848, , , PA 
+Colebrook, 54, 54, Oven?, Silas, W, 47, M, , 1803, Laborer, , PA 
+Colebrook, 54, 54, Oven?, Elisabeth, , 46, F, , 1804, , , PA 
+Colebrook, 54, 54, Oven?, Anglina, A, 14, F, , 1836, , , PA 
+Colebrook, 54, 54, Oven?, Ocar, , 12, M, , 1838, , , PA 
+Colebrook, 54, 54, Oven?, Mary, E, 9, F, , 1841, , , PA 
+Colebrook, 54, 54, Oven?, Emily, , 7, F, , 1843, , , PA 
+Colebrook, 55, 55, Stringfellow, George, , 34, M, , 1816, Laborer, , PA 
+Colebrook, 55, 55, Stringfellow, Leah, , 32, F, , 1818, , , PA 
+Colebrook, 55, 55, Stringfellow, Joseph, L, 8, M, , 1842, , , PA 
+Colebrook, 55, 55, Stringfellow, John, W, 6, M, , 1844, , , PA 
+Colebrook, 55, 55, Stringfellow, Mary, E, 4, F, , 1846, , , PA 
+Colebrook, 56, 56, Williams, James, , 39, M, , 1811, Farmer, , ENG 
+Colebrook, 56, 56, Williams, Sarah, , 28, F, , 1822, , , PA 
+Colebrook, 56, 56, Williams, Maria, , 9 mo, F, , 1850, , , PA 
+Colebrook, 57, 57, Saltsman, Anthony, , 54, M, , 1796, Farmer, , PA 
+Colebrook, 57, 57, Saltsman, Sarah, , 42, F, , 1808, , , PA 
+Colebrook, 57, 57, Saltsman, Robert, H, 20, M, , 1830, , , PA 
+Colebrook, 57, 57, Saltsman, Anthony, W, 18, M, , 1832, , , PA 
+Colebrook, 57, 57, Saltsman, Elizabeth, A, 15, F, , 1835, , , PA 
+Colebrook, 57, 57, Saltsman, Mary, J, 15, F, , 1835, , , PA 
+Colebrook, 57, 57, Saltsman, George, W, 11, M, , 1839, , , PA 
+Colebrook, 57, 57, Saltsman, Sarah, H, 9, F, , 1841, , , PA 
+Colebrook, 57, 57, Saltsman, John, B, 7, M, , 1843, , , PA 
+Colebrook, 57, 57, Saltsman, Rebecca, , 4, F, , 1846, , , PA 
+Colebrook, 57, 57, Saltsman, Andrew, J, 2, M, , 1848, , , PA 
+Colebrook, 57, 57, Saltsman, Robert, , 56, M, , 1794, , , PA 
+Colebrook, 57, 57, Saltsman, Mary, , 75, F, , 1775, Widow-Since Dead, , PA 
+Colebrook, 57, 57, McCloskey, Benjamin, S, 25, M, , 1825, Labourer, , PA 
+Colebrook, 58, 58, McCloskey, Nathan, , 74, M, , 1776, , , PA 
+Colebrook, 58, 58, McCloskey, Ann, , 64, F, , 1786, , , PA 
+Colebrook, 58, 58, McCloskey, Abner, , 26, M, , 1824, Farmer, $1, 000, PA 
+Colebrook, 58, 58, McCloskey, David, , 21, M, , 1829, , , PA 
+Colebrook, 58, 58, McCloskey, Elizabeth, , 19, F, , 1831, , , PA 
+Colebrook, 59, 59, Wadsworth, James, , 20, M, , 1830, Farmer, $2, 000, PA 
+Colebrook, 59, 59, Wadsworth, Catharine, , 21, F, , 1829, , , PA 
+Colebrook, 59, 59, Wadsworth, Maria, , 2, F, , 1848, , , PA 
+Colebrook, 59, 59, Milligan, Hugh, , 80, M, , 1770, Super Anuated, , PA 
+Colebrook, 60, 60, Hethington, Michael, , 42, M, , 1808, Laborer, , IRE 
+Colebrook, 60, 60, Hethington, Juliana, , 30, F, , 1820, , , PA 
+Colebrook, 60, 60, Hethington, Rosanna, , 8, F, , 1842, , , PA 
+Colebrook, 60, 60, Hethington, Nancy, J, 5, F, , 1845, , , PA 
+Colebrook, 60, 60, Hethington, Rebecca, , 3, F, , 1847, , , PA 
+Colebrook, 60, 60, Hethington, Ellen, , 1, F, , 1849, , , PA 
+Colebrook, 60, 60, Butler, James, , 9, M, , 1841, , , PA 
+Colebrook, 60, 60, McCarrn, Thomas, , 48, M, , 1802, Laborer, , IRE 
+Colebrook, 61, 61, Smith, Daniel, , 39, M, , 1811, Laborer, , PA 
+Colebrook, 61, 61, Smith, Permilia, , 25, F, , 1825, , , PA 
