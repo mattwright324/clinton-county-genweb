@@ -1,9 +1,8 @@
 http://www.pagenweb.org/~clinton/
-http://www.pagenweb.org/~clinton/index.html
-http://www.pagenweb.org/~clinton/census.html
-http://www.pagenweb.org/~clinton/cemeteries.html
-http://www.pagenweb.org/~clinton/vitals.html
-http://www.pagenweb.org/~clinton/resources.html
+http://www.pagenweb.org/~clinton/census.aspx
+http://www.pagenweb.org/~clinton/cemeteries.aspx
+http://www.pagenweb.org/~clinton/vitals.aspx
+http://www.pagenweb.org/~clinton/resources.aspx
 http://www.pagenweb.org/~clinton/content/census/beechcreektwp.txt
 http://www.pagenweb.org/~clinton/content/census/baldeagletwp.txt
 http://www.pagenweb.org/~clinton/content/census/chapmantwp.txt

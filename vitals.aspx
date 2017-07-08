@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- #include file ="header.html" -->
+    <div class="container content">
+		<img src="img/flag_vitals.jpg" class="content-header"/>
+		<h2>Vital Statistics</h2>
+		<p>
+			<div class="contact">
+				<a href="http://www.clintoncountypa.com/geneology.htm">Clinton County Register and Recorders Office</a><br/>
+				230 East Water Street<br/>
+				Lock Haven, PA 177745<br/>
+				(570) 893-4010<br/>
+				<a href="mailto:regrec@clintoncountypa.com">regrec@clintoncountypa.com</a>
+			</div>
+			<br/>
+			<div class="contact">
+				<a href="http://www.clintoncogensociety.org/">Clinton County Historical Society</a><br/>
+				362 East Water Street<br/>
+				Lock Haven, PA 17745<br/>
+				(717) 748-7254<br/>
+			</div>
+			<br/>
+			Although we do not do extensive searches, we will gladly furnish any information available in our office. Many times wills or estate files will reveal family information that will lead to a completion of your search. Contact the Register & Recorders Office for fee information.
+			<br/></br>
+			Clinton County was created on June 21, 1839. Until this date Centre and Lycoming were the counties that occupied the land that became Clinton County. Our office maintains land and estate records from 1839 until the present time.
+			<br/></br>
+			Our Marriage records start with October 1885 and continue to the present. Since we do not have a general index for the marriages, it is necessary that an approximate date of marriage be known to assist in finding the record of the marriage. We have found some records that were never completed. This does not necessarily mean that a marriage never took place, many times the person conducting the ceremony neglected to return the duplicate marriage record, thereby making our records incomplete.
+			<br/><br/>
+			We have Birth and Death records that cover the years from 1893 through 1905. Prior to these dates there were no public records kept. Since 1905 all birth and death records are kept in <a href="http://vitalrec.com/pa.html#State">New Castle, Pennsylvania</a>.
+			</br></br>
+			<div style="max-width: 350px; margin: 0 auto;">
+				<table class="table cctable" align=center style="margin: 0 auto">
+					<tr> <th>Record</th> <th>Dates</th> </tr>
+					<tr> <td>Birth & Death</td> <td>1893 to 1905</td> </tr>
+					<tr> <td>Marriage</td> <td>Oct 1885 to present.</td> </tr>
+				</table>
+			</div>
+			</br></br>
+			<div class="contact">
+				<a href="http://www.dsf.health.state.pa.us/health/cwp/view.asp?a=168&q=229939">Vital Records, Pennsylvania P.O. Box 1528</a><br/>
+				101 South Mercer Street<br/>
+				New Castle, PA 16101<br/>
+				(724) 656-3100<br/>
+				Fax: (724) 652-8951</a>
+			</div>
+			</br></br>
+			<div class="table-responsive newspapers" style="margin: 0 auto">
+				<h4>Newspapers of the Region</h4>
+				<br/>
+				<table class="table cctable"> 
+					<tr> <th>Year(s)</th> <th>Publication</th> <th>Name</th> </tr>
+					<tr> <td>August 1838</td><td>Weekly</td><td>The Eagle</td></tr>
+					<tr> <td>1840</td><td>Weekly</td><td>The Clintonian<br><i>Same paper as The Eagle, changed name to conform with the name of the new country.</i></td></tr>
+					<tr> <td>Until 1847</td><td>Weekly</td><td>The Clinton County Whig<br><i>Clintonian revived after brief suspension.</i></td></tr>
+					<tr> <td>1849</td><td>Weekly</td><td>The Clinton Tribune</td></tr>
+					<tr> <td>1854 - 1861</td><td>Weekly</td><td>The American Watchman<br><i>The Clinton Tribune under a different name.</i></td></tr>
+					<tr> <td>1840 (Suspended)<br>1843 (Revived)</td><td>Weekly</td><td>Clinton County Democrat</td></tr>
+					<tr> <td>1844<br>1845 (Merged)</td><td>Weekly</td><td>The Clinton Democrat<br><i>Merged with Clinton County Democrat</i></td></tr>
+					<tr> <td>1845 - 1921</td><td>Weekly</td><td>The Clinton Democrat<br><i>Merged with the two papers above.</i></td></tr>
+					<tr> <td>1853</td><td>Weekly</td><td>The Logansville Democrat<br><i>German language, published in Logansville (now Loganton).</i></td></tr>
+					<tr> <td>1861</td><td>Weekly</td><td>The Lockhaven News</td></tr>
+					<tr> <td>1861</td><td>Weekly</td><td>The Lockhaven Press<br><i>Same paper as The Lockhaven News.</i></td></tr>
+					<tr> <td>1863 - 1921</td><td>Weekly</td><td>The Clinton Republican</td></tr>
+					<tr> <td>1873</td><td>Weekly</td><td>The Enterprise</td></tr>
+					<tr> <td>1869</td><td>Daily</td><td>The Independent</td></tr>
+					<tr> <td>1869</td><td>Daily</td><td>Quid Nunc<br><i>Same paper as The Independent.</i></td></tr>
+					<tr> <td>1877 - 1883</td><td>Daily</td><td>The Daily Journal<br><i>Published from The Enterprise office.</i></td></tr>
+					<tr> <td>1871</td><td>Weekly<br><i>Later Daily</i></td><td>The Renovo Record</td></tr>
+					<tr> <td>1879</td><td>Weekly</td><td>The Weekly Journal</td></tr>
+					<tr> <td>1882</td><td>Daily</td><td>The Evening Express</td></tr>
+					<tr> <td>1886</td><td>Weekly</td><td>The County Journal<br><i>Established in Loganton</i></td></tr>
+					<tr> <td>1884 - 1917</td><td>Weekly</td><td>The Sugar Valley Journal<br><i>Continuation of The County Journal. Published until WWI.</i></td></tr>
+					<tr> <td>???</td><td>Weekly</td><td>The Valley Chief<br><i>Continuation of The Sugar Valley Journal</i></td></tr>
+					<tr> <td>1897</td><td>???</td><td>The Mill Hall Times</td></tr>
+					<tr> <td>1914 - 1917</td><td>Daily</td><td>The Clinton Dispatch</td></tr>
+					<tr> <td>March 1, 1882 (Claim) - 1917</td><td>Daily</td><td>The Lock Haven Express<br><i>Merger of The Clinton Dispatch, The Evening Express, and The Weekly Express.</i></td></tr>
+					<tr> <td>1895</td><td>Weekly</td><td>The Clinton County Times</td></tr>
+					<tr> <td>Ca. 1913</td><td>Weekly</td><td>The Avis Advance</td></tr>
+				</table>
+			</div>
+		</p>
+    </div>
+	<!-- #include file ="footer.html" -->
+  </body>
+</html>
