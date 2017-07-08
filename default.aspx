@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
 	<!-- #include file ="header.html" -->
+    <title>Home - Clinton County PAGenWeb</title>
+  </head>
+  <body>
+    <!-- #include file ="navbar.html" -->
     <div class="container content">
-		<h2 style="color:red; background-color:rgba(255,0,0,0.1)" align=center>Site under reconstruction. Please come back later.</h2>
 		<img src="img/flag_default.jpg" class="content-header"/>
 		<h2>Welcome to Clinton County!</h2>
 		<p>
-			Officially formed on June 21, 1839 from Lycoming and Center Counties. The county was named in honor of Dewitt Clinton, a senator and sixth Governor of New York.<br/><br/>
-			For detailed requests, make sure you participate in the <a href="http://boards.ancestry.com/localities.northam.usa.states.pennsylvania.counties.clinton/mb.ashx">Clinton County Message Boards</a>.
-			</br>
-			</br>
+			Officially formed on June 21, 1839 from Lycoming and Center Counties. The county was named in honor of DeWitt Clinton (1769 - 1828), United States Senator and sixth Governor of New York. As of 2014, Clinton holds a population of approximately 39,745.
+			<br/><br/>
 			<div class="searchbox">
 			    <h4>Search This website:</h4>
 				<script>
@@ -25,7 +27,18 @@
 				</script>
 				<gcse:search></gcse:search>
 			</div>
-			<br/>
+			<br/><br/>
+			<h4><a href="census.aspx">Transcribed Census Data</a></h4>
+			Our census page provides information on existing transcribed census data. However, several have not been transcribed nor indexed and the process of doing so has become non-cost effective. Data is available for 1850, 1870, 1880, 1900, and 1930. Fortunately, the townships of Clinton have had their census data transcribed which can be sifted through or searched with the search box above.
+			<h4><a href="cemeteries.aspx">Cemeteries, Graves, and Obituaries</a></h4>
+			The cemeteries page provides links to searchable cemetery indexes as well as a custom made map locating various cemeteries. The Clinton County Cemeteries map uses coordinates provided by Find-A-Grave and may not be 100 percent accurate. Each point on the map provides a link to the Find-A-Grave website and tells you how many are buried. Several did not provide coordinates and are listed below the map. If address or coordinates can be provided please contact to update the map. 
+			<h4><a href="vitals.aspx">Vital Statitics</a></h4>
+			The vitals page provides contact information for several records offices and the history of newspapers in the region. 
+			<h4><a href="resources.aspx">Clinton County Resources</a></h4>
+			Several resources are provided for Clinton County, families of Clinton, and Pennsylvania in general.
+			<br/><br/>
+			For detailed requests, make sure you participate in the <a href="http://boards.ancestry.com/localities.northam.usa.states.pennsylvania.counties.clinton/mb.ashx">Clinton County Message Boards</a>.
+			<br/><br/>
 			<h4>Please visit the surrounding county websites:</h4>
 			<ul>
 				<li><a href="http://www.pagenweb.org/~cameron/">Cameron</a></li>

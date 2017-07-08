@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
 	<!-- #include file ="header.html" -->
+    <title>Vitals - Clinton County PAGenWeb</title>
+  </head>
+  <body>
+    <!-- #include file ="navbar.html" -->
     <div class="container content">
 		<img src="img/flag_vitals.jpg" class="content-header"/>
 		<h2>Vital Statistics</h2>
@@ -21,13 +26,13 @@
 			</div>
 			<br/>
 			Although we do not do extensive searches, we will gladly furnish any information available in our office. Many times wills or estate files will reveal family information that will lead to a completion of your search. Contact the Register & Recorders Office for fee information.
-			<br/></br>
+			<br/><br/>
 			Clinton County was created on June 21, 1839. Until this date Centre and Lycoming were the counties that occupied the land that became Clinton County. Our office maintains land and estate records from 1839 until the present time.
-			<br/></br>
+			<br/><br/>
 			Our Marriage records start with October 1885 and continue to the present. Since we do not have a general index for the marriages, it is necessary that an approximate date of marriage be known to assist in finding the record of the marriage. We have found some records that were never completed. This does not necessarily mean that a marriage never took place, many times the person conducting the ceremony neglected to return the duplicate marriage record, thereby making our records incomplete.
 			<br/><br/>
 			We have Birth and Death records that cover the years from 1893 through 1905. Prior to these dates there were no public records kept. Since 1905 all birth and death records are kept in <a href="http://vitalrec.com/pa.html#State">New Castle, Pennsylvania</a>.
-			</br></br>
+			<br/><br/>
 			<div style="max-width: 350px; margin: 0 auto;">
 				<table class="table cctable" align=center style="margin: 0 auto">
 					<tr> <th>Record</th> <th>Dates</th> </tr>
@@ -35,7 +40,7 @@
 					<tr> <td>Marriage</td> <td>Oct 1885 to present.</td> </tr>
 				</table>
 			</div>
-			</br></br>
+			<br/><br/>
 			<div class="contact">
 				<a href="http://www.dsf.health.state.pa.us/health/cwp/view.asp?a=168&q=229939">Vital Records, Pennsylvania P.O. Box 1528</a><br/>
 				101 South Mercer Street<br/>
@@ -43,7 +48,7 @@
 				(724) 656-3100<br/>
 				Fax: (724) 652-8951</a>
 			</div>
-			</br></br>
+			<br/><br/>
 			<div class="table-responsive newspapers" style="margin: 0 auto">
 				<h4>Newspapers of the Region</h4>
 				<br/>

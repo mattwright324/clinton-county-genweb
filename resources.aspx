@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
 	<!-- #include file ="header.html" -->
+    <title>Resources - Clinton County PAGenWeb</title>
+  </head>
+  <body>
+    <!-- #include file ="navbar.html" -->
     <div class="container content">
 		<img src="img/flag_resources.jpg" class="content-header"/>
 		<h2>Clinton County Resources</h2>

@@ -79,6 +79,13 @@ p {
   width: auto;
   margin: 0 auto;
 }
+.boxsizingBorder {
+  width: 100%;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
 /* Fix for Bootstrap breaking Google's Custom Search  */
 .gsc-control-cse .gsc-table-result {

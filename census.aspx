@@ -1,6 +1,19 @@
+<%@ Page Language="c#" AutoEventWireup="false" MaintainScrollPositionOnPostBack="true" CodeBehind="Default.aspx.vb" %>
 <!DOCTYPE html>
 <html lang="en">
+  <head>
 	<!-- #include file ="header.html" -->
+    <title>Census - Clinton County PAGenWeb</title>
+	<script type="text/javascript" language="javascript">
+		function Load_TextFile(filename) {
+			CensusText.Text = 
+			
+			return false;
+		}
+	</script>
+  </head>
+  <body>
+    <!-- #include file ="navbar.html" -->
     <div class="container content">
 		<img src="img/flag_census.jpg" class="content-header"/>
 		<h2>Transcribed Census Data</h2>
@@ -24,12 +37,19 @@
 					<tr> <td>1930</td> <td>T626-2021<br>T626-2022</td> <td><a id="twps" href="http://www.us-census.org/states/pennsylvania/teams/Clinton1930.htm">ED's</a></td> <td></td> <td></td> </tr> 
 				</table>
 			</div>
-			</br>
+			<br/>
 			<div align=center>
+			<form class="boxsizingBorder" runat="server">
 				<h4>Township Census Data</h4>
-				<p>
-					TODO: Access to census data pages.
-				</p>
+				<div class="census-choices">
+				    <ul>
+					    <asp:LinkButton id="beechcreektwp" Text="Beech Creek Twp" OnClientClick="javascript:Load_TextFile(this.id); return false;" runat="server" /> 
+					</ul>
+				</div>
+				<div class="census-display boxsizingBorder">
+					<asp:textbox id="CensusText" TextMode="MultiLine" class="boxsizingBorder" ReadOnly="true" runat="server" />
+				</div>
+			</form>
 			</div>
 			
 		</p>
