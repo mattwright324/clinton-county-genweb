@@ -1,7 +1,0 @@
-User-Agent: *
-Disallow: 
-Disallow: /census
-Disallow: /css
-Disallow: /js
-
-Sitemap: http://www.pagenweb.org/~clinton/sitemap.txt

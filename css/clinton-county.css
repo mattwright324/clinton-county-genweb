@@ -24,6 +24,8 @@ p {
 }
 .content-header {
   width: 100%;
+  box-shadow: 6px 6px 6px 2px rgba(127,127,127,0.7);
+  border-radius: 3px;
 }
 .btn {
   background: black;
@@ -49,7 +51,7 @@ p {
   padding-top: 20px;
 }
 .mapframe .map {
-	width:100%;
+  width:100%;
     height:100%;
 }
 .mapframe {
@@ -86,14 +88,43 @@ p {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+.resourceList {
+  list-style: none; 
+  padding: 0;
+}
+.resourceList li img {
+  padding-right: 15px;
+  border-color: transparent;
+}
+.censusBtn {
+  padding-right: 10px;
+}
+.twpBtn, .twp {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+.twpBtn:hover {
+  background-color: rgba(255,127,127,0.3);
+}
+.twp {
+  height: 25px;
+}
+.twp:hover {
+  background-color: rgba(255,127,127,0.3);
+}
 
 /* Fix for Bootstrap breaking Google's Custom Search  */
 .gsc-control-cse .gsc-table-result {
-	font-family : inherit;
+  font-family : inherit;
 }
 
 .gsc-control-cse .gsc-input-box {
-	height : inherit;
+  height : inherit;
 }
 
 input.gsc-input,
@@ -101,7 +132,7 @@ input.gsc-input,
 .gsc-input-box-hover,
 .gsc-input-box-focus,
 .gsc-search-button, input.gsc-search-button-v2 {
-	box-sizing  : content-box;
-	line-height : normal;
-	margin-top  : 0px;
+  box-sizing  : content-box;
+  line-height : normal;
+  margin-top  : 0px;
 }

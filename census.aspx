@@ -1,16 +1,8 @@
-<%@ Page Language="c#" AutoEventWireup="false" MaintainScrollPositionOnPostBack="true" CodeBehind="Default.aspx.vb" %>
 <!DOCTYPE html>
 <html lang="en">
   <head>
 	<!-- #include file ="header.html" -->
     <title>Census - Clinton County PAGenWeb</title>
-	<script type="text/javascript" language="javascript">
-		function Load_TextFile(filename) {
-			CensusText.Text = 
-			
-			return false;
-		}
-	</script>
   </head>
   <body>
     <!-- #include file ="navbar.html" -->
@@ -38,20 +30,56 @@
 				</table>
 			</div>
 			<br/>
-			<div align=center>
-			<form class="boxsizingBorder" runat="server">
+			<div>
+				<script type="text/javascript">
+					$(function() {
+						$("twpData").flexible();
+					});
+					function openRawText(item) {
+						let file = "content/census/"+$(item).parent().attr("id")+".txt";
+						console.log('Opening raw -> ', file);
+						window.open(file);
+					}
+					function loadTextArea(filename) {
+						let filepath = "content/census/"+filename+".txt";
+						console.log('Loading text file -> ', filepath);
+						$("#twpText").text(filepath);
+						$.ajax({
+							url : filepath,
+							dataType: "text",
+							success : function (data) {
+								$(".twpText").text(data);
+							}
+						});
+					}
+				</script>
 				<h4>Township Census Data</h4>
-				<div class="census-choices">
-				    <ul>
-					    <asp:LinkButton id="beechcreektwp" Text="Beech Creek Twp" OnClientClick="javascript:Load_TextFile(this.id); return false;" runat="server" /> 
-					</ul>
+				<div style="display: flex;">
+					<div class="twpList" align=center>
+						<ul style="list-style: none; padding: 0; float: left; max-width: 300px; min-width: 200px; display:inline-block:">
+							<li class="twpbtn"><div class="twp" id="baldeagletwp" onclick="loadTextArea(this.id)">Bald Eagle Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="beechcreektwp" onclick="loadTextArea(this.id)">Beech Creek Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="chapmantwp" onclick="loadTextArea(this.id)">Chapman Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="colebrooktwp" onclick="loadTextArea(this.id)">Colebrook Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="crawfordtwp" onclick="loadTextArea(this.id)">Crawford Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="dunstabletwp" onclick="loadTextArea(this.id)">Dunstable Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="gallahertwp" onclick="loadTextArea(this.id)">Gallaher Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="greenetwp" onclick="loadTextArea(this.id)">Greene Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="grovetwp" onclick="loadTextArea(this.id)">Grove Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="katlingtwp" onclick="loadTextArea(this.id)">Katling Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="lamartwp" onclick="loadTextArea(this.id)">Lamar Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="leidytwp" onclick="loadTextArea(this.id)">Leidy Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="lockhaventwp" onclick="loadTextArea(this.id)">Lock Haven Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="logantwp" onclick="loadTextArea(this.id)">Lumber Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="lumbertwp" onclick="loadTextArea(this.id)">Logan Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="portertwp" onclick="loadTextArea(this.id)">Porter Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="waynetwp" onclick="loadTextArea(this.id)">Wayne Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="woodwardtwp" onclick="loadTextArea(this.id)">Woodward Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+						</ul>
+					</div>
+					<div class="textWrapper boxsizingBorder" style="float:left; flex-grow: 1; height: auto;"><textarea class="twpText boxsizingBorder" style="flex-grow: 1;"> </textarea></div>
 				</div>
-				<div class="census-display boxsizingBorder">
-					<asp:textbox id="CensusText" TextMode="MultiLine" class="boxsizingBorder" ReadOnly="true" runat="server" />
-				</div>
-			</form>
 			</div>
-			
 		</p>
     </div>
 	<!-- #include file ="footer.html" -->
