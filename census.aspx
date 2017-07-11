@@ -70,8 +70,8 @@
 							<li class="twpbtn"><div class="twp" id="lamartwp" onclick="loadTextArea(this.id)">Lamar Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
 							<li class="twpbtn"><div class="twp" id="leidytwp" onclick="loadTextArea(this.id)">Leidy Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
 							<li class="twpbtn"><div class="twp" id="lockhaventwp" onclick="loadTextArea(this.id)">Lock Haven Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
-							<li class="twpbtn"><div class="twp" id="logantwp" onclick="loadTextArea(this.id)">Lumber Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
-							<li class="twpbtn"><div class="twp" id="lumbertwp" onclick="loadTextArea(this.id)">Logan Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="lumbertwp" onclick="loadTextArea(this.id)">Lumber Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
+							<li class="twpbtn"><div class="twp" id="logantwp" onclick="loadTextArea(this.id)">Logan Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
 							<li class="twpbtn"><div class="twp" id="portertwp" onclick="loadTextArea(this.id)">Porter Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
 							<li class="twpbtn"><div class="twp" id="waynetwp" onclick="loadTextArea(this.id)">Wayne Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
 							<li class="twpbtn"><div class="twp" id="woodwardtwp" onclick="loadTextArea(this.id)">Woodward Twp. <a href="javascript:void(0)" onclick="openRawText(this)" id="raw">(Raw)</a></div></li>
