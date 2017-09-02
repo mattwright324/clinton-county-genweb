@@ -19,16 +19,18 @@
                 <li><a href="http://www.usgwarchives.net/pa/clinton/tsimages.htm">Tombstone Photos</a></li>
             </ul>
 			<td id="column2">
+        <br/>
 				<div class="mapframe">
-					<iframe class="map" align="center" src="https://www.google.com/maps/d/embed?mid=1muGj3xux6FzB2tIf8BNEicMsI_U"></iframe>
+          <p>Cemetery coordinates from the Find-A-Grave website have been placed in the map below. </p>
+					<iframe class="map" align="center" src="https://www.google.com/maps/d/embed?mid=1muGj3xux6FzB2tIf8BNEicMsI_U&ll=41.27785301768364%2C-77.6390079746094&z=9"></iframe>
 				</div>
 				<br/>
+        <br/>
 				<h3>Unlocated Cemeteries</h3>
-				<p>Many of the cemeteries from the Find-A-Grave website have been placed in the map above for convenience. While a majority had a location provided, a few did not and those are listed below.</p>
+				<p>Several of the cemeteries from the Find-A-Grace website did not provide coordinates or an address which are listed below. Please contact me through email if a location can be provided to update this list, the map, and Find-A-Grave.</p>
 				<ul>
-					<li>Church of Brethren Cemetery</li>
 					<li>David Family Cemetery</li>
-					<li>Eastview Cemetery</li>
+					<li>Eastville Cemetery</li>
 					<li>Esh Amish Cemetery</li>
 					<li>Halls Run Cemetery</li>
 					<li>Hammersley Fork Cemetery</li>
@@ -39,7 +41,6 @@
 					<li>Minersville Cemetery</li>
 					<li>Parkman Mausoleum</li>
 					<li>Perry Family Cemetery (Kryder Cemetery)</li>
-					<li>Presbyterian</li>
 					<li>Red Hill</li>
 					<li>Rosecrans Cemetery</li>
 					<li>Shaffer Family Cemetery</li>

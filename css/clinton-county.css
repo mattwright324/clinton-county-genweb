@@ -52,12 +52,11 @@ p {
 }
 .mapframe .map {
   width:100%;
-    height:100%;
+  height:100%;
 }
 .mapframe {
   margin: 0 auto;
   height: 480px;
-  max-width: 768px;
   width: auto;
 }
 .cctable tr td, table tr th {
@@ -89,7 +88,7 @@ p {
   box-sizing: border-box;
 }
 .resourceList {
-  list-style: none; 
+  list-style: none;
   padding: 0;
 }
 .resourceList li img {
