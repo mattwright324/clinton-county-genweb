@@ -6,8 +6,13 @@
   </head>
   <body>
     <!-- #include file ="navbar.html" -->
+	<div id="page-header" style="position:relative">
+		<div class="container header-img">
+			<img src="./img/flag_census.jpg" class="content-header"/>
+		</div>
+		<div class="header-img-bg" style="background: transparent url('./img/census-bg.jpg') center repeat;"></div>
+	</div>
     <div class="container content">
-		<img src="img/flag_census.jpg" class="content-header"/>
 		<h2>Transcribed Census Data</h2>
 		<p>
 			Please note that due to advances in technology and the availability of huge databases, transcribing census materials have become non-cost effective effort and is seldom practiced now unless a small localized group has a purpose for such. Most census records have been transcribed, cataloged, and indexed on Ancestry.com.

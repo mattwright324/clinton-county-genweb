@@ -3,29 +3,49 @@ html {
   min-height: 100%;
 }
 body {
-  padding-top: 70px;
-  margin-bottom: 60px;
   font-family: 'Open Sans', serif;
   background: transparent url(../img/background.png) center repeat;
 }
-.navbar {
-  background-color: #a8c9ff;
-  overflow: auto;
+
+/* Page Header */
+#page-header {
+	max-height: 246px;
+	overflow: hidden;
 }
+.header-img {
+	z-index: 9999;
+}
+.header-img img {
+	width: 100%;
+	height: 100%;
+}
+.header-img-bg {
+	position: absolute; 
+	top: -10px; 
+	left: -10px; 
+	width: 110%; 
+	height: 110%;
+	background: black;
+	-webkit-filter: blur(3px) brightness(80%); /* Safari */
+	filter: blur(3px) brightness(80%);
+	z-index: -1;
+}
+
+/* Main Content */
+.content {
+	padding-top: 20px;
+	padding-bottom: 250px;
+}
+.card {
+	overflow: hidden;
+}
+
 p {
   font-size: 15px;
 }
 .searchbox {
   margin: 0 auto;
   max-width: 768px;
-}
-.content {
-  padding-bottom: 200px;
-}
-.content-header {
-  width: 100%;
-  box-shadow: 6px 6px 6px 2px rgba(127,127,127,0.7);
-  border-radius: 3px;
 }
 .btn {
   background: black;

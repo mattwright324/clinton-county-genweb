@@ -6,8 +6,13 @@
   </head>
   <body>
     <!-- #include file ="navbar.html" -->
+	<div id="page-header" style="position:relative">
+		<div class="container header-img">
+			<img src="./img/flag_vitals.jpg" class="content-header"/>
+		</div>
+		<div class="header-img-bg" style="background: transparent url('./img/vitals-bg.jpg') center repeat;"></div>
+	</div>
     <div class="container content">
-		<img src="img/flag_vitals.jpg" class="content-header"/>
 		<h2>Vital Statistics</h2>
 		<p>
 			<div class="contact">

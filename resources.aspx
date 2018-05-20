@@ -6,8 +6,13 @@
   </head>
   <body>
     <!-- #include file ="navbar.html" -->
+	<div id="page-header" style="position:relative">
+		<div class="container header-img">
+			<img src="./img/flag_resources.jpg" class="content-header"/>
+		</div>
+		<div class="header-img-bg" style="background: transparent url('./img/resources-bg.jpg') center repeat;"></div>
+	</div>
     <div class="container content">
-		<img src="img/flag_resources.jpg" class="content-header"/>
 		<h2>Clinton County Resources</h2>
 		<p>
 			There are many resources available for Clinton County, families within Clinton, and Pennsylvania in general. If there are any resources that you believe should be here please send an email.

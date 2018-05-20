@@ -6,8 +6,13 @@
   </head>
   <body>
     <!-- #include file ="navbar.html" -->
+	<div id="page-header" style="position:relative">
+		<div class="container header-img">
+			<img src="./img/flag_cemeteries.jpg" class="content-header"/>
+		</div>
+		<div class="header-img-bg" style="background: transparent url('./img/cemeteries-bg.jpg') center repeat;"></div>
+	</div>
     <div class="container content">
-		<img src="img/flag_cemeteries.jpg" class="content-header"/>
 		<h2>Cemeteries, Graves, and Obituaries</h2>
 		<p>
 			"The fence around a cemetery is foolish, for those inside can't get out and those outside don't want to get in." -- <i>Arthur Brisbane</i><br>
