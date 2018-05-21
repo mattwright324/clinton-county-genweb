@@ -37,7 +37,7 @@
 			
 			<a href="./census.aspx">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="./img/census-bg.jpg" style="filter: blur(5px);" alt="Card image">
+				<img class="card-img" src="./img/census-bg.jpg" style="filter: blur(5px) brightness(80%);" alt="Card image">
 				<div class="card-img-overlay">
 					<h4 class="card-title"><strong>Transcribed Census Data</strong></h4>
 					<p class="card-text">
@@ -53,7 +53,7 @@
 			
 			<a href="./cemeteries.aspx">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="./img/cemeteries-bg.jpg" style="filter: blur(5px);" alt="Card image">
+				<img class="card-img" src="./img/cemeteries-bg.jpg" style="filter: blur(5px) brightness(80%);" alt="Card image">
 				<div class="card-img-overlay">
 					<h4 class="card-title"><strong>Cemeteries, Graves, and Obituaries</strong></h4>
 					<p class="card-text">
@@ -70,7 +70,7 @@
 			
 			<a href="./vitals.aspx">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="./img/vitals-bg.jpg" style="filter: blur(5px);" alt="Card image">
+				<img class="card-img" src="./img/vitals-bg.jpg" style="filter: blur(5px) brightness(80%);" alt="Card image">
 				<div class="card-img-overlay">
 					<h4 class="card-title"><strong>Vital Statistics</strong></h4>
 					<p class="card-text">
@@ -84,7 +84,7 @@
 			
 			<a href="./resources.aspx">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="./img/resources-bg.jpg" style="filter: blur(5px);" alt="Card image">
+				<img class="card-img" src="./img/resources-bg.jpg" style="filter: blur(5px) brightness(80%);" alt="Card image">
 				<div class="card-img-overlay">
 					<h4 class="card-title"><strong>Resources</strong></h4>
 					<p class="card-text">
@@ -94,18 +94,7 @@
 			</div>
 			</a>
 			<br>
-			<!--<h4>Transcribed Census Data</a></h4>
-			<div class="h4t"><p</p></div>
-			<br/><br/>
-			<h4><a href="cemeteries.aspx">Cemeteries, Graves, and Obituaries</a></h4>
-			<div class="h4t"><p></p></div>
-			<br/><br/>
-			<h4><a href="vitals.aspx">Vital Statitics</a></h4>
-			<div class="h4t"><p></p></div>
-			<br/><br/>
-			<h4><a href="resources.aspx">Clinton County Resources</a></h4>
-			<div class="h4t"><p></p></div>
-			<br/><br/>-->
+			
 			For detailed requests, make sure you participate in the <a href="http://boards.ancestry.com/localities.northam.usa.states.pennsylvania.counties.clinton/mb.ashx">Clinton County Message Boards</a>.
 			<br/><br/>
 			<h4>Please visit the surrounding county websites:</h4>
