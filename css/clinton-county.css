@@ -1,149 +1,172 @@
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
+
 body {
-  font-family: 'Open Sans', serif;
-  background: transparent url(../img/background.png) center repeat;
+    font-family: 'Open Sans', serif;
+    background: transparent url(../../img/background.png) center repeat;
 }
 
 /* Page Header */
 #page-header {
-	max-height: 246px;
-	overflow: hidden;
+    max-height: 246px;
+    overflow: hidden;
 }
+
 .header-img {
-	z-index: 9999;
+    z-index: 9999;
 }
+
 .header-img img {
-	width: 100%;
-	height: 100%;
+    width: 100%;
+    height: 100%;
 }
+
 .header-img-bg {
-	position: absolute; 
-	top: -10px; 
-	left: -10px; 
-	width: 110%; 
-	height: 110%;
-	background: black;
-	-webkit-filter: blur(3px) brightness(80%); /* Safari */
-	filter: blur(3px) brightness(80%);
-	z-index: -1;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 110%;
+    height: 110%;
+    background: black;
+    -webkit-filter: blur(3px) brightness(80%); /* Safari */
+    filter: blur(3px) brightness(80%);
+    z-index: -1;
 }
 
 /* Main Content */
 .content {
-	padding-top: 20px;
-	padding-bottom: 250px;
+    padding-top: 20px;
+    padding-bottom: 250px;
 }
+
 .card {
-	overflow: hidden;
+    overflow: hidden;
 }
 
 p {
-  font-size: 15px;
+    font-size: 15px;
 }
+
 .searchbox {
-  margin: 0 auto;
-  max-width: 768px;
+    margin: 0 auto;
+    max-width: 768px;
 }
+
 .btn {
-  background: black;
-  background-color: black;
+    background: black;
+    background-color: black;
 }
+
 .btn:hover {
-  background: black;
-  background-color: black;
+    background: black;
+    background-color: black;
 }
+
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: auto;
-  background-color: #f4f8ff
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: #f4f8ff
 }
+
 .footer-text .text-muted {
-  width: auto;
-  text-align: center;
-  max-width: 768px;
-  padding-bottom: 20px;
-  margin: 0 auto;
-  padding-top: 20px;
+    width: auto;
+    text-align: center;
+    max-width: 768px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    padding-top: 20px;
 }
+
 .mapframe .map {
-  width:100%;
-  height:100%;
+    width: 100%;
+    height: 100%;
 }
+
 .mapframe {
-  margin: 0 auto;
-  height: 480px;
-  width: auto;
+    margin: 0 auto;
+    height: 480px;
+    width: auto;
 }
+
 .cctable tr td, table tr th {
-  width: auto;
-  height: 35px;
-  text-align: center;
+    width: auto;
+    height: 35px;
+    text-align: center;
 }
+
 .cctable tr td {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-bottom-style: dotted;
-  border-bottom-width: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
 }
+
 .cctable tr th {
-  background-color: #f4f8ff;
-  padding-left: 30px;
-  padding-right: 30px;
+    background-color: #f4f8ff;
+    padding-left: 30px;
+    padding-right: 30px;
 }
+
 .contact {
-  background-color: rgba(127,127,127,0.1);
-  width: auto;
-  margin: 0 auto;
+    background-color: rgba(127, 127, 127, 0.1);
+    width: auto;
+    margin: 0 auto;
 }
+
 .boxsizingBorder {
-  width: 100%;
-  height: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 .resourceList {
-  list-style: none;
-  padding: 0;
+    list-style: none;
+    padding: 0;
 }
+
 .resourceList li img {
-  padding-right: 15px;
-  border-color: transparent;
+    padding-right: 15px;
+    border-color: transparent;
 }
+
 .censusBtn {
-  padding-right: 10px;
+    padding-right: 10px;
 }
+
 .twpBtn, .twp {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
 }
+
 .twpBtn:hover {
-  background-color: rgba(255,127,127,0.3);
+    background-color: rgba(255, 127, 127, 0.3);
 }
+
 .twp {
-  height: 25px;
+    height: 25px;
 }
+
 .twp:hover {
-  background-color: rgba(255,127,127,0.3);
+    background-color: rgba(255, 127, 127, 0.3);
 }
 
 /* Fix for Bootstrap breaking Google's Custom Search  */
 .gsc-control-cse .gsc-table-result {
-  font-family : inherit;
+    font-family: inherit;
 }
 
 .gsc-control-cse .gsc-input-box {
-  height : inherit;
+    height: inherit;
 }
 
 input.gsc-input,
@@ -151,7 +174,7 @@ input.gsc-input,
 .gsc-input-box-hover,
 .gsc-input-box-focus,
 .gsc-search-button, input.gsc-search-button-v2 {
-  box-sizing  : content-box;
-  line-height : normal;
-  margin-top  : 0px;
+    box-sizing: content-box;
+    line-height: normal;
+    margin-top: 0;
 }

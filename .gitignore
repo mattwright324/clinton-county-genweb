@@ -1,2 +1,3 @@
-
-desktop.ini
+.idea/
+_site/
+gemfile.lock

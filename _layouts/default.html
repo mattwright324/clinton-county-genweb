@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - Clinton County PAGenWeb</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="./img/icon.png">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+            integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+            crossorigin="anonymous"></script>
+
+    <link href="css/clinton-county.css?v=1" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100434147-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-100434147-1');
+    </script>
+</head>
+<body>
+<nav class="navbar navbar-expand-md navbar-dark bg-primary navbar-fixed-top" style="background: #0B3472 !important">
+    <div class="container">
+        <span class="navbar-brand" href="#">
+            <img src="./img/favicon.png" width="30" height="30" class="d-inline-block align-top"/>
+            Clinton County, PA
+        </span>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="./census.html">Census</a></li>
+                <li class="nav-item"><a class="nav-link" href="./cemeteries.html">Cemeteries</a></li>
+                <li class="nav-item"><a class="nav-link" href="./vitals.html">Vitals</a></li>
+                <li class="nav-item"><a class="nav-link" href="./resources.html">Resources</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+{{ content }}
+
+<footer class="footer">
+    <div class="footer-text">
+        <p class="text-muted">
+        <span class="text-muted">&copy; 2020 Matthew Wright. <br>
+            <a target="_blank" href="https://github.com/mattwright324/clinton-county-genweb"><img
+                    src="https://github.com/favicon.ico" width=16px height=16px/> mattwright324</a>
+             |
+            <a href="mailto:mattwright324@gmail.com?subject=Comments from PAGenWeb (Clinton County)">mattwright324@gmail.com</a><br/>
+        </span>
+            Last updated: 5/3/2020.<br><br>
+            <a href="http://www.usgenweb.org/"><img src="http://usgenweb.org/images/logos/USGenWebLogoA2.gif"
+                                                    height=102px/></a>
+            <a href="http://www.pagenweb.org/"><img src="img/palogosml.gif" height=102px/></a>
+        </p>
+    </div>
+</footer>
+</body>
+</html>
